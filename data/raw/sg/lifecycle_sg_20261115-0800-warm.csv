@@ -1,0 +1,121 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261115-0800-warm,2026-11-15 08:19:58,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:19:59,sg,gologin,id_bbb2a288bdfd3c38,1,,1423.5,221.5,warm,1,582.7,2227.7,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:02,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:20:02,sg,browserbase,1c433033-fc31-4002-a0e0-70c6ea418998,1,702.2,1260.9,680.2,warm,1,753.7,3397.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:06,sg,kernel,fb95t4oq4d1v1628n0635o9n,1,2704.6,1418.5,863.7,warm,1,933.8,5920.6,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:12,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:20:13,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:20:14,sg,gologin,id_bbb2a288bdfd3c38,1,,1412.6,247.1,warm,1,521.4,2181.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:16,sg,browserbase,841e093f-e8fd-4bec-af0e-08d13db65d9f,1,693.5,1231.4,667.0,warm,1,738.8,3330.7,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:20,sg,kernel,jvs1nkczqcashey4kbq698tm,1,2540.3,1421.5,878.6,warm,1,934.8,5775.2,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:26,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:20:28,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:20:28,sg,browserbase,3ec89d9e-8947-48af-9008-b077b34a4f76,1,697.4,1245.2,680.8,warm,1,793.0,3416.4,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:32,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:20:33,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:20:34,sg,gologin,id_bbb2a288bdfd3c38,1,,1404.6,219.2,warm,1,552.7,2176.5,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:36,sg,kernel,e8g0cimz5bikrzvtafun88ha,1,2299.9,1423.9,890.6,warm,1,956.6,5571.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:42,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:20:43,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:20:44,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:20:44,sg,kernel,qhu93pj1m5o9ghuc5u0rhwdd,1,2396.6,1391.5,857.6,warm,1,906.9,5552.6,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:50,sg,browserbase,0f149fbd-b9f3-4a2b-b10c-ac1d53ad8926,1,693.4,1235.3,681.0,warm,1,790.7,3400.4,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:54,sg,gologin,id_bbb2a288bdfd3c38,1,,1428.3,239.2,warm,1,533.6,2201.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:20:56,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:20:57,sg,browserbase,aad7e001-e763-4cd9-bde1-72f2ecc6c0e7,1,701.5,1431.5,684.2,warm,1,748.1,3565.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:01,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:21:03,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:21:04,sg,gologin,id_bbb2a288bdfd3c38,1,,1408.6,236.2,warm,1,524.4,2169.2,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:06,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:21:06,sg,kernel,w3nfnj3773hht6r2u8mpqtvt,1,3011.3,1413.1,849.5,warm,1,849.7,6123.6,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:13,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:21:14,sg,gologin,id_bbb2a288bdfd3c38,1,,1409.0,222.4,warm,1,538.6,2170.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:16,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:21:17,sg,browserbase,5ac13fcc-3b15-4c56-a98f-e0d1754df52c,1,699.8,1230.6,676.8,warm,1,729.9,3337.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:21,sg,kernel,vcfg3sj9ekknj3wwq63skvsk,1,2957.9,1418.8,865.0,warm,1,921.6,6163.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:27,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:21:28,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:21:29,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:21:30,sg,kernel,n0z4dj3muuip6yeipr4hnlpf,1,2400.6,1413.8,863.2,warm,1,914.4,5592.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:36,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:21:36,sg,browserbase,9d1ae9a0-c9ca-4b7b-9514-9a219d552a95,1,682.0,1241.1,679.7,warm,1,723.3,3326.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:40,sg,gologin,id_bbb2a288bdfd3c38,1,,1421.7,223.9,warm,1,550.5,2196.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:42,sg,browserbase,335c3c31-293b-424e-8f8c-3fb532db961c,1,734.0,1242.1,663.6,warm,1,727.6,3367.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:46,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:21:47,sg,kernel,ev1g1tuw78xds2x1oq8gkajf,1,2151.2,1421.0,882.1,warm,1,907.0,5361.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:53,sg,gologin,id_bbb2a288bdfd3c38,1,,1645.7,229.8,warm,1,547.5,2423.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:21:55,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:21:55,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:21:57,sg,kernel,cz8ndrixegfyf80y9n14al55,1,2707.8,1395.3,860.4,warm,1,916.5,5880.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:03,sg,browserbase,ee6e8eef-2da9-4e08-9d04-43d7fe3b6166,1,680.4,1246.0,681.2,warm,1,797.7,3405.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:07,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:22:08,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:22:09,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:22:09,sg,gologin,id_bbb2a288bdfd3c38,1,,1413.6,220.5,warm,1,548.4,2182.5,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:11,sg,kernel,drjp7m8d8bcx89ymemjm2hy5,1,2592.8,1405.1,848.8,warm,1,941.1,5787.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:18,sg,gologin,id_bbb2a288bdfd3c38,1,,1419.2,220.9,warm,1,544.9,2185.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:20,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:22:20,sg,browserbase,14fb1ea5-c1d2-46f1-af2a-6d8282952035,1,697.2,1248.1,678.5,warm,1,745.8,3369.6,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:24,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:22:24,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:22:26,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:22:27,sg,gologin,id_bbb2a288bdfd3c38,1,,1420.9,224.5,warm,1,545.7,2191.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:29,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:22:30,sg,browserbase,39c5b305-dc2e-494a-827e-cc08ee6f1ab7,1,698.2,1229.6,679.6,warm,1,714.6,3322.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:34,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:22:34,sg,kernel,wlaqetolcnoxg3fuw4f8yugl,1,2406.5,1369.8,870.7,warm,1,859.1,5506.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:40,sg,gologin,id_bbb2a288bdfd3c38,1,,1425.4,226.7,warm,1,557.8,2209.9,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:42,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:22:43,sg,kernel,v7h90qa2lu25lxtt5cel636c,1,2895.6,1443.4,867.7,warm,1,930.9,6137.6,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:50,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:22:51,sg,browserbase,7fcb80b0-cee9-47bf-9f60-a3d426f0b6b6,1,695.7,1238.2,680.0,warm,1,800.2,3414.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:22:55,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:22:55,sg,kernel,xf25knqvkgzwtkv23pxjm5em,1,2482.6,1414.7,848.1,warm,1,911.6,5657.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:01,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:23:03,sg,browserbase,2024f425-6dbc-4871-842e-fb7bf4311f75,1,692.4,1242.4,686.9,warm,1,745.1,3366.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:06,sg,gologin,id_bbb2a288bdfd3c38,1,,1422.8,220.9,warm,1,557.6,2201.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:09,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:23:09,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:23:09,sg,browserbase,c803801e-fa9c-4336-9cbf-5c76afadc07b,1,683.3,1234.2,676.9,warm,1,720.1,3314.5,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:13,sg,gologin,id_bbb2a288bdfd3c38,1,,1412.8,218.0,warm,1,567.0,2197.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:15,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:23:16,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:23:16,sg,kernel,ypdvkn7vijvh602moi7swpf5,1,2604.6,1413.9,847.5,warm,1,893.8,5759.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:22,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:23:24,sg,kernel,sjf9qmjoiwrqq79ltu9yr8vk,1,2643.7,1407.1,872.3,warm,1,898.9,5822.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:30,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:23:31,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:23:32,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:23:32,sg,browserbase,ab4060d9-cf1c-4c7c-93dc-0354e8daabd9,1,655.1,1234.6,684.0,warm,1,748.3,3322.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:36,sg,gologin,id_bbb2a288bdfd3c38,1,,1415.9,222.4,warm,1,609.1,2247.4,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:38,sg,browserbase,f96a502a-aa06-4398-a57e-ceda05a7928c,1,687.6,1236.7,676.8,warm,1,791.2,3392.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:42,sg,kernel,rl8wnfj67v4fcn0fj43ksv5y,1,2009.4,1396.6,845.3,warm,1,914.0,5165.3,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:48,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:23:48,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:23:49,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:23:50,sg,gologin,id_bbb2a288bdfd3c38,1,,1443.2,224.7,warm,1,588.2,2256.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:53,sg,gologin,id_bbb2a288bdfd3c38,1,,1428.9,219.9,warm,1,551.9,2200.7,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:55,sg,browserbase,db307340-df13-4676-b3b4-4f27d66870a2,1,696.9,1243.6,678.7,warm,1,756.7,3375.9,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:23:59,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:23:59,sg,kernel,n8riowu5yy2l0nk1x8zmgr7a,1,3185.8,1419.3,850.4,warm,1,956.3,6411.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:06,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:24:07,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:24:08,sg,kernel,o1av48ur594l3etfjoeeeivh,1,2141.0,1405.4,857.4,warm,1,895.2,5299.0,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:14,sg,gologin,id_bbb2a288bdfd3c38,1,,1431.6,219.6,warm,1,600.9,2252.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:16,sg,browserbase,dfbe30ed-d2e0-4c76-86d8-ac0c4e834ad2,1,653.8,1238.1,694.9,warm,1,741.6,3328.4,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:20,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:24:20,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:24:21,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:24:22,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:24:22,sg,browserbase,f7e4ddeb-0dfc-4332-a2f5-3c293c4b5bb7,1,661.2,1234.7,687.5,warm,1,727.4,3310.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:26,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-warm,2026-11-15 08:24:27,sg,kernel,xo3pwy0m9d915s2uej2ewvbr,1,2565.9,1445.9,870.1,warm,1,923.9,5805.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:33,sg,gologin,id_bbb2a288bdfd3c38,1,,1477.9,230.0,warm,1,612.6,2320.5,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:36,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:24:36,sg,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-warm,2026-11-15 08:24:36,sg,steel,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-warm,2026-11-15 08:24:38,sg,browserbase,45f32434-bdc0-41ce-a03f-504a064cb59a,1,701.2,1254.8,679.6,warm,1,742.0,3377.6,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:42,sg,gologin,id_bbb2a288bdfd3c38,1,,1420.4,223.4,warm,1,571.3,2215.1,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:44,sg,kernel,pj8tqqijlgg8eqt5br6babc9,1,1803.9,1392.8,844.8,warm,1,855.3,4896.8,200,https://www.google.com/,
+20261115-0800-warm,2026-11-15 08:24:49,sg,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "

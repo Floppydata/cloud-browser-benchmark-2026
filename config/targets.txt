@@ -1,0 +1,80 @@
+# Targets: pages that blocked plain headless Chrome 157 (no proxy) from the US
+# server (Ashburn) in the baseline of 2026-11-12, one page per site, grouped by
+# the anti-bot product the baseline detected.
+
+# --- cloudflare (18)
+https://nowsecure.nl/
+https://www.indeed.com/jobs?q=python+developer&l=New+York
+https://www.glassdoor.com/Job/new-york-python-developer-jobs-SRCH_IL.0,8_IC1132348_KO9,25.htm
+https://www.crunchbase.com/organization/openai
+https://www.upwork.com/nx/search/jobs/?q=python
+https://www.coinbase.com/price/bitcoin
+https://www.quora.com/search?q=python
+https://medium.com/search?q=python
+https://www.npmjs.com/search?q=react
+https://www.capterra.com/crm-software/
+https://www.ziprecruiter.com/jobs-search?search=python&location=New+York
+https://www.yellowpages.com/search?search_terms=plumber&geo_location_terms=New+York
+https://www.cdiscount.com/search/10/iphone.html
+https://stockx.com/sneakers
+https://www.ssense.com/en-us/men/sneakers
+https://www.goat.com/sneakers
+https://www.whoscored.com/Regions/252/Tournaments/2/England-Premier-League
+https://www.carvana.com/cars
+
+# --- akamai (12)
+https://www.crateandbarrel.com/search?query=sofa
+https://www.homes.com/new-york-ny/
+https://www.homedepot.com/s/drill
+https://www.lowes.com/search?searchTerm=drill
+https://www.sephora.com/search?keyword=perfume
+https://www.macys.com/shop/search?keyword=shoes
+https://www.kohls.com/search.jsp?search=shoes
+https://www.delta.com/flight-search/book-a-flight
+https://www.aa.com/booking/find-flights
+https://www.marriott.com/search/findHotels.mi?destinationAddress.city=New+York
+https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=shoes
+https://www.zara.com/us/en/search?searchTerm=jacket
+
+# --- datadome (11)
+https://www.g2.com/categories/crm
+https://www.tripadvisor.com/Search?q=paris
+https://www.leboncoin.fr/recherche?text=velo
+https://www.idealista.com/en/venta-viviendas/madrid-madrid/
+https://www.seloger.com/immobilier/achat/immo-paris-75/
+https://allegro.pl/listing?string=rower
+https://www.hermes.com/us/en/category/women/bags-and-small-leather-goods/bags-and-clutches/
+https://www.zocdoc.com/search?dr_specialty=153&address=New+York
+https://www.etsy.com/search?q=mug
+https://www.expedia.com/Hotel-Search?destination=New+York
+https://www.yelp.com/search?find_desc=pizza&find_loc=New+York
+
+# --- perimeterx (8)
+https://www.zoominfo.com/c/microsoft/24904409
+https://www.zillow.com/new-york-ny/
+https://www.walmart.com/search?q=tv
+https://www.wayfair.com/keyword.php?keyword=sofa
+https://www.fiverr.com/search/gigs?query=logo+design
+https://www.priceline.com/
+https://www.target.com/s?searchTerm=tv
+https://www.skyscanner.com/transport/flights/nyca/laxa/261215/
+
+# --- other (7)
+https://www.trustpilot.com/review/amazon.com
+https://www.reddit.com/search/?q=python
+https://www.fnac.com/SearchResult/ResultList.aspx?Search=iphone
+https://www.adidas.com/us/search?q=shoes
+https://www.hyatt.com/search/New%20York
+https://www.ebay.com/sch/i.html?_nkw=iphone
+https://www.kayak.com/flights/JFK-LAX/2026-12-15
+
+# --- aws-cloudfront (2)
+https://www.similarweb.com/website/google.com/
+https://www.chegg.com/search/python
+
+# --- kasada (2)
+https://www.realtor.com/realestateandhomes-search/Austin_TX
+https://www.ticketmaster.com/search?q=taylor+swift
+
+# --- google-recaptcha (1)
+https://www.google.com/search?q=weather+new+york

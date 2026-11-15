@@ -1,0 +1,8 @@
+providers.json
+.env
+*.key
+logs/
+__pycache__/
+.venv/
+collected/
+shots/

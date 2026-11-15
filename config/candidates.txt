@@ -1,0 +1,129 @@
+# Candidate pages for the targets test. Search, listing and product pages, not
+# home pages: home pages are rarely challenged (pilot: 10 of 15 let a no-proxy
+# datacenter browser through). The vendor after each line is only what the site
+# is commonly reported to use - `cbbench.py baseline` detects the real one and
+# keeps the pages that block plain headless Chrome.
+
+# --- Cloudflare
+https://nowsecure.nl/                                                  # Cloudflare challenge test page
+https://www.g2.com/categories/crm
+https://www.indeed.com/jobs?q=python+developer&l=New+York
+https://www.glassdoor.com/Job/new-york-python-developer-jobs-SRCH_IL.0,8_IC1132348_KO9,25.htm
+https://www.crunchbase.com/organization/openai
+https://www.upwork.com/nx/search/jobs/?q=python
+https://www.coinbase.com/price/bitcoin
+https://opensea.io/collection/boredapeyachtclub
+https://www.quora.com/search?q=python
+https://medium.com/search?q=python
+https://www.npmjs.com/search?q=react
+https://www.zoominfo.com/c/microsoft/24904409
+https://www.similarweb.com/website/google.com/
+https://www.capterra.com/crm-software/
+https://www.trustpilot.com/review/amazon.com
+https://www.ziprecruiter.com/jobs-search?search=python&location=New+York
+https://www.yellowpages.com/search?search_terms=plumber&geo_location_terms=New+York
+https://www.discord.com/
+https://www.patreon.com/explore
+https://www.instacart.com/store/s?k=milk
+
+# --- DataDome
+https://www.tripadvisor.com/Search?q=paris
+https://www.tripadvisor.com/Hotels-g60763-New_York_City_New_York-Hotels.html
+https://www.leboncoin.fr/recherche?text=velo
+https://www.vinted.fr/catalog?search_text=nike
+https://www.footlocker.com/category/mens/shoes.html
+https://www.idealista.com/en/venta-viviendas/madrid-madrid/
+https://www.seloger.com/immobilier/achat/immo-paris-75/
+https://allegro.pl/listing?string=rower
+https://www.hermes.com/us/en/category/women/bags-and-small-leather-goods/bags-and-clutches/
+https://www.soundcloud.com/search?q=lofi
+https://www.reddit.com/search/?q=python
+https://www.deezer.com/search/jazz
+https://www.fnac.com/SearchResult/ResultList.aspx?Search=iphone
+https://www.cdiscount.com/search/10/iphone.html
+https://www.auto-scout24.de/lst/bmw
+https://www.marmiton.org/recettes/recherche.aspx?aqt=gateau
+https://www.rakuten.com/search?term=shoes
+https://www.wellfound.com/jobs
+
+# --- PerimeterX / HUMAN
+https://www.zillow.com/new-york-ny/
+https://www.zillow.com/homes/for_sale/Austin,-TX_rb/
+https://www.walmart.com/search?q=tv
+https://www.walmart.com/browse/electronics/3944
+https://www.wayfair.com/keyword.php?keyword=sofa
+https://stockx.com/sneakers
+https://www.ssense.com/en-us/men/sneakers
+https://www.fiverr.com/search/gigs?query=logo+design
+https://www.priceline.com/
+https://www.chegg.com/search/python
+https://www.goat.com/sneakers
+https://www.crateandbarrel.com/search?query=sofa
+https://www.homes.com/new-york-ny/
+https://www.zocdoc.com/search?dr_specialty=153&address=New+York
+
+# --- Akamai
+https://www.nike.com/w/mens-shoes-nik1zy7ok
+https://www.homedepot.com/s/drill
+https://www.bestbuy.com/site/searchpage.jsp?st=laptop
+https://www.lowes.com/search?searchTerm=drill
+https://www.sephora.com/search?keyword=perfume
+https://www.macys.com/shop/search?keyword=shoes
+https://www.costco.com/CatalogSearch?keyword=tv
+https://www.kohls.com/search.jsp?search=shoes
+https://www.adidas.com/us/search?q=shoes
+https://www.target.com/s?searchTerm=tv
+https://www.ups.com/track?tracknum=1Z999AA10123456784
+https://www.fedex.com/fedextrack/?trknbr=123456789012
+https://www.delta.com/flight-search/book-a-flight
+https://www.united.com/en/us/fsr/choose-flights?f=JFK&t=LAX
+https://www.aa.com/booking/find-flights
+https://www.marriott.com/search/findHotels.mi?destinationAddress.city=New+York
+https://www.ulta.com/search?search=perfume
+https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=shoes
+https://www.zara.com/us/en/search?searchTerm=jacket
+https://www.underarmour.com/en-us/search/?q=shoes
+https://www.usps.com/
+https://www.chase.com/
+
+# --- Kasada
+https://www.realtor.com/realestateandhomes-search/Austin_TX
+https://www.hyatt.com/search/New%20York
+https://kick.com/browse
+https://www.canadagoose.com/us/en/shop/men/outerwear/
+https://www.playstation.com/en-us/ps5/
+
+# --- Imperva / Incapsula
+https://www.whoscored.com/Regions/252/Tournaments/2/England-Premier-League
+https://www.ryanair.com/gb/en
+https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1
+https://www.coinmarketcap.com/
+https://www.carvana.com/cars
+
+# --- Amazon, Google, Shopee and other in-house protection
+https://www.amazon.com/s?k=laptop
+https://www.amazon.com/dp/B0BSHF7WHW
+https://www.amazon.de/s?k=laptop
+https://www.google.com/search?q=weather+new+york
+https://www.google.com/maps/search/coffee/@40.7128,-74.0060,14z
+https://www.linkedin.com/jobs/search?keywords=python&location=New+York
+https://www.instagram.com/nasa/
+https://www.tiktok.com/@nasa
+https://x.com/nasa
+https://www.facebook.com/nasa
+https://www.ebay.com/sch/i.html?_nkw=iphone
+https://www.etsy.com/search?q=mug
+https://www.aliexpress.com/w/wholesale-phone-case.html
+https://www.temu.com/search_result.html?search_key=phone+case
+https://www.booking.com/searchresults.html?ss=New+York
+https://www.airbnb.com/s/New-York/homes
+https://www.expedia.com/Hotel-Search?destination=New+York
+https://www.kayak.com/flights/JFK-LAX/2026-12-15
+https://www.skyscanner.com/transport/flights/nyca/laxa/261215/
+https://www.ticketmaster.com/search?q=taylor+swift
+https://www.stubhub.com/search?q=lakers
+https://www.craigslist.org/search/sss?query=bike
+https://www.yelp.com/search?find_desc=pizza&find_loc=New+York
+https://www.glassdoor.com/Reviews/Google-Reviews-E9079.htm
+https://www.shein.com/pdsearch/dress/
+https://www.nordstrom.com/sr?keyword=shoes

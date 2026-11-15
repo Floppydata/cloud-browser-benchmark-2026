@@ -1,0 +1,11 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261113-0800-c1gl,2026-11-13 08:27:07,sg,gologin,id_df307ca661b0284a,1,565.8,4996.9,218.6,cold,1,690.3,6471.6,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:27:23,sg,gologin,id_023f3fa33053226a,1,587.7,4917.6,212.0,cold,1,688.4,6405.7,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:27:37,sg,gologin,id_5d218f6e8e4a7270,1,509.9,5177.3,232.4,cold,1,689.0,6608.6,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:27:52,sg,gologin,id_fda03042d031d20e,1,536.8,5706.7,231.7,cold,1,811.9,7287.1,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:28:08,sg,gologin,id_d122d673d3e9b24a,0,556.7,,,cold,1,,,,https://www.google.com/,connect: TimeoutError: BrowserType.connect_over_cdp: Timeout 60000ms exceeded. Call log: - <ws connecting> wss://cloudbrowser.gologin.com/connect
+20261113-0800-c1gl,2026-11-13 08:29:09,sg,gologin,id_cf48a3ecf58e821c,1,521.1,9110.9,188.3,cold,1,600.5,10420.8,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:29:29,sg,gologin,id_493348e651a8f561,1,530.3,6815.3,196.9,cold,1,605.0,8147.5,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:29:47,sg,gologin,id_0e33d2aafa41813d,1,517.6,7540.2,187.6,cold,1,619.2,8864.6,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:30:05,sg,gologin,id_0febf3308bc09cac,1,548.3,6762.7,184.4,cold,1,606.2,8101.6,200,https://www.google.com/,
+20261113-0800-c1gl,2026-11-13 08:30:22,sg,gologin,id_4146bce93cacf7e4,1,498.7,5195.0,227.7,cold,1,705.7,6627.1,200,https://www.google.com/,

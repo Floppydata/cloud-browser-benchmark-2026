@@ -1,0 +1,111 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261114-1600-c5,2026-11-14 16:21:03,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:03,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:03,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:03,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:03,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:03,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:03,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:03,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:03,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:03,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:04,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:04,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:04,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:04,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:04,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:04,us,kernel,scg4q6v2ylywbkprtfljzj5g,1,27.2,96.3,46.9,cold,5,320.1,490.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,kernel,rwvsc5o5cuiqyxwvpj2np5zb,1,21.4,108.1,61.1,cold,5,366.7,557.3,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,kernel,s4eenrv7p501c3tgc2zsp2ho,1,26.4,131.6,35.3,cold,5,235.5,428.8,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,kernel,lepnl1v0cq5vftr786np6htv,1,51.7,197.8,27.9,cold,5,435.7,713.1,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,kernel,vl6xclalt3cssryfzbx4wz06,1,54.1,117.8,58.6,cold,5,304.6,535.1,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,steel,47a8c7ed-3281-4fb2-a82d-9db0d0c5478e,1,301.0,719.1,167.0,cold,5,508.8,1695.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,steel,4687439f-bc86-4385-97fe-951a80a77eed,1,409.8,633.7,150.3,cold,5,383.4,1577.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,steel,672618b1-29f0-4253-97b6-37aaf36e97e7,1,368.2,502.0,185.7,cold,5,340.3,1396.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,steel,fe315096-a9d1-491e-82ed-66f7d370cb81,1,392.6,644.8,180.3,cold,5,408.4,1626.1,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:04,us,steel,d29103b1-25dc-4b68-85a2-6f3d3a0d5a47,1,310.0,880.9,155.0,cold,5,450.0,1795.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:06,us,floppydata,9ce9f35d-e753-471f-b2c5-22be979fd09e,1,5705.6,2066.7,167.8,cold,5,3213.9,11154.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:06,us,floppydata,626f9fc2-b73e-4fdc-b3ba-2936db6ee12d,1,6937.4,1973.3,167.6,cold,5,1077.9,10156.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:06,us,floppydata,56489476-d0d2-4b07-97ea-c873e3ba0ef5,1,6268.0,2404.5,226.6,cold,5,2316.0,11215.1,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:06,us,floppydata,43a486cf-9ef3-4474-a773-3cc3ab6a0a42,1,8051.4,2175.5,180.7,cold,5,3784.2,14191.8,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:06,us,floppydata,acf42bbf-d0d8-4a98-810e-21e0789a4ece,1,5203.8,2253.2,172.4,cold,5,1047.1,8676.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:20,us,browserless,,1,,1032.3,72.5,cold,5,649.6,1754.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:20,us,browserless,,1,,989.2,70.3,cold,5,757.2,1816.7,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:20,us,browserless,,1,,856.0,65.8,cold,5,618.8,1540.6,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:20,us,browserless,,1,,755.6,118.6,cold,5,514.9,1389.1,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:20,us,browserless,,1,,939.6,118.0,cold,5,626.1,1683.7,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:22,us,gologin,id_d633c28a30b6c35b,1,285.1,5450.0,148.6,cold,5,858.7,6742.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:22,us,gologin,id_cb4c0e820167e4bb,1,295.6,4962.8,148.6,cold,5,745.7,6152.7,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:22,us,gologin,id_da6490d68da1b075,1,288.8,4545.4,147.5,cold,5,623.7,5605.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:22,us,gologin,id_386af67671e43bf9,1,415.6,5580.9,158.0,cold,5,906.8,7061.3,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:22,us,gologin,id_b83d79511885aa73,1,296.6,4966.2,147.6,cold,5,702.2,6112.6,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:41,us,browserbase,59852019-96ba-4254-8054-674a70b8b1a3,1,345.1,599.3,321.0,cold,5,591.5,1856.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:41,us,browserbase,1bd4c369-96a0-4d62-a90c-3c80603336b9,1,340.4,533.8,333.0,cold,5,544.0,1751.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:41,us,browserbase,b9a641a2-28a9-41d4-8bf2-2789552550e9,1,338.9,523.0,321.2,cold,5,568.3,1751.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:41,us,browserbase,c9ecf8f3-4189-4604-96a7-b64961a5af54,1,344.2,520.3,335.2,cold,5,554.8,1754.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:41,us,browserbase,9e0f3a1d-5ff1-4f97-bf38-857cce7f5a0f,1,341.8,524.9,314.1,cold,5,573.1,1753.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:43,us,hyperbrowser,a0128291-3340-447d-a3b8-c196426c846f,1,241.5,232.9,98.8,cold,5,656.1,1229.3,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:43,us,hyperbrowser,b866e333-4f31-41a1-9332-06e0024aa1f6,1,284.7,211.5,118.3,cold,5,636.0,1250.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:43,us,hyperbrowser,a621ceed-3ca7-4c11-9e58-cc9cd3d7307b,1,313.0,215.4,96.1,cold,5,589.8,1214.3,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:43,us,hyperbrowser,cd8433d8-f712-44a0-bdcb-36c28a3bf10d,1,238.5,200.8,100.7,cold,5,636.6,1176.6,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:43,us,hyperbrowser,4d741d22-0fe6-4f84-b818-5dfbbb087c3a,1,286.7,224.4,109.2,cold,5,537.7,1158.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:45,us,lightpanda,,1,,1143.3,96.6,cold,5,372.1,1612.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:45,us,lightpanda,,1,,1093.7,92.9,cold,5,210.8,1397.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:45,us,lightpanda,,1,,1137.8,96.1,cold,5,198.6,1432.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:45,us,lightpanda,,1,,1142.5,96.5,cold,5,209.8,1448.8,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:45,us,lightpanda,,1,,1105.2,93.1,cold,5,385.6,1583.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:46,us,browserbase,419ecc29-d9a7-416a-be44-99d6d174a20c,1,322.1,517.0,313.5,cold,5,556.8,1709.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:46,us,browserbase,825d7394-2943-40d7-921a-25c458fc22b0,1,319.7,541.8,293.2,cold,5,656.7,1811.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:46,us,browserbase,533ceea2-4674-4ee3-acba-ba834b59a919,1,278.9,534.0,317.0,cold,5,546.7,1676.6,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:46,us,browserbase,f10924ec-9785-49a5-8480-c4b2855e6057,1,317.5,523.5,317.1,cold,5,534.6,1692.7,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:46,us,browserbase,6355fb71-913d-4501-b5a0-355f333e6c2f,1,382.0,511.5,313.5,cold,5,604.4,1811.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:48,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:48,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:48,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:48,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:48,us,anchor,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c5,2026-11-14 16:21:48,us,steel,c48f08d3-de2a-40ad-aa81-bd7d11e47b8c,1,270.8,559.9,162.0,cold,5,435.8,1428.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:48,us,steel,99fdf5bd-2e66-4106-b969-15fe84fb771e,1,257.6,761.3,155.6,cold,5,485.5,1660.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:48,us,steel,82437a8b-9143-4692-ad50-7028153366db,1,286.4,504.7,175.7,cold,5,364.4,1331.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:48,us,steel,52b49d8e-fe76-4576-a427-f243e2c0c53e,1,309.1,685.5,176.3,cold,5,458.1,1629.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:48,us,steel,d97bad50-cfa1-429a-a4f9-d2b419ff8fcb,1,245.3,644.4,159.7,cold,5,422.7,1472.1,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:50,us,lightpanda,,1,,1058.6,95.1,cold,5,388.7,1542.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:50,us,lightpanda,,1,,1042.4,93.7,cold,5,356.8,1492.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:50,us,lightpanda,,1,,1072.3,96.3,cold,5,368.5,1537.1,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:50,us,lightpanda,,1,,1103.0,96.6,cold,5,214.4,1414.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:50,us,lightpanda,,1,,1051.3,94.4,cold,5,372.9,1518.6,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:51,us,hyperbrowser,54024652-df1a-4468-b231-2c8e61fdff7e,1,308.1,213.9,111.6,cold,5,632.4,1266.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:51,us,hyperbrowser,19ed0cad-c505-448b-8800-2ef389ac455a,1,296.8,190.4,108.2,cold,5,598.3,1193.7,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:51,us,hyperbrowser,6c1105b0-6d64-43a8-aa67-aebcbb23e1d1,1,236.8,223.0,107.3,cold,5,627.7,1194.8,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:51,us,hyperbrowser,589a04f7-8d55-4258-b5df-4262cb8a96bf,1,238.6,195.8,106.9,cold,5,613.0,1154.3,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:51,us,hyperbrowser,3e7ef16e-9acf-486c-bd44-9c1d5337b264,1,325.5,199.3,103.2,cold,5,630.7,1258.7,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:53,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:53,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:53,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:53,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:53,us,notte,,0,,,,cold,5,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c5,2026-11-14 16:21:53,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:53,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:53,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:53,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:53,us,browseruse,,0,,,,cold,5,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c5,2026-11-14 16:21:53,us,floppydata,5d4baaa5-dab7-46e1-a4b1-a523fd0aad87,1,6862.3,2285.7,161.7,cold,5,22150.5,31460.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:53,us,floppydata,75fb2ad0-5437-41b3-a062-1115899fa340,1,7088.8,2163.8,173.5,cold,5,1784.4,11210.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:53,us,floppydata,2faf3dd5-d700-4431-a4c5-e5a5e44163a2,1,9372.5,1981.4,169.9,cold,5,1182.7,12706.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:53,us,floppydata,2d7b7ced-9fbe-4d39-9ebe-f5d4b6cd8304,1,12765.5,2283.6,167.8,cold,5,1587.9,16804.8,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:21:53,us,floppydata,3038ba61-701d-4fd0-b370-bbfe8a64c4db,1,6192.8,2286.7,172.3,cold,5,12616.5,21268.3,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,kernel,b62z5mnw6ixxctvstpf4pm6o,1,74.0,91.0,21.4,cold,5,450.6,637.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,kernel,yymuyotpcuolomq2snwsh4an,1,89.1,106.4,23.1,cold,5,296.4,515.0,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,kernel,ty2vdfnrq4f9gvkxhd39p1l7,1,76.2,53.2,38.1,cold,5,369.7,537.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,kernel,cu5cq0few197vhfgqucrpueh,1,87.4,110.0,39.7,cold,5,370.4,607.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,kernel,m7lfx4f48samlh0vz2y6qe9f,1,244.0,59.6,45.5,cold,5,346.3,695.4,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,gologin,id_545cdbc64dcc71a5,1,673.6,5031.5,136.8,cold,5,703.0,6544.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,gologin,id_a6e1a44ab2db8f0c,1,276.5,5540.4,148.8,cold,5,681.2,6646.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,gologin,id_5e8443857c68856b,1,316.3,4946.3,135.3,cold,5,615.0,6012.9,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,gologin,id_1e93064158186611,1,298.1,5003.9,147.9,cold,5,653.8,6103.7,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:25,us,gologin,id_f90f399232cb81a5,1,331.7,5784.6,147.7,cold,5,835.8,7099.8,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:44,us,browserless,,1,,797.1,120.6,cold,5,494.5,1412.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:44,us,browserless,,1,,780.7,69.2,cold,5,589.7,1439.6,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:44,us,browserless,,1,,855.5,120.0,cold,5,560.7,1536.2,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:44,us,browserless,,1,,782.7,65.5,cold,5,570.3,1418.5,200,https://www.google.com/,
+20261114-1600-c5,2026-11-14 16:22:44,us,browserless,,1,,925.7,69.2,cold,5,635.0,1629.9,200,https://www.google.com/,

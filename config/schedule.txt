@@ -1,0 +1,22 @@
+# Full run of 12-15 November 2026 (UTC). Each server gets a 4-hour turn and
+# the servers never overlap: de 00/12, us 04/16, sg 08/20. "full" adds the
+# load tests to the "light" run.
+# Format: <server> <minute> <hour> <day> <month> <mode>
+de 0 12 12 11 full
+us 0 16 12 11 full
+sg 0 20 12 11 full
+de 0 0 13 11 light
+us 0 4 13 11 light
+sg 0 8 13 11 light
+de 0 12 13 11 full
+us 0 16 13 11 full
+sg 0 20 13 11 full
+de 0 0 14 11 light
+us 0 4 14 11 light
+sg 0 8 14 11 light
+de 0 12 14 11 full
+us 0 16 14 11 full
+sg 0 20 14 11 full
+de 0 0 15 11 light
+us 0 4 15 11 light
+sg 0 8 15 11 light

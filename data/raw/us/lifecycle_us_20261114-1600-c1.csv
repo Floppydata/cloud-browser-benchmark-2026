@@ -1,0 +1,301 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261114-1600-c1,2026-11-14 16:01:03,us,browserless,,1,,856.0,64.6,cold,1,609.3,1529.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:05,us,lightpanda,,1,,1048.5,95.6,cold,1,209.1,1353.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:06,us,steel,71a7365d-dea7-44e1-9716-c82832bc530b,1,317.7,737.8,221.2,cold,1,502.4,1779.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:08,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:01:08,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:01:08,us,kernel,oo8ctyd0e6d4odbjzus1j9t8,1,63.0,59.6,46.0,cold,1,241.2,409.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:08,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:01:09,us,floppydata,02f46617-0559-4ce3-b775-2a3f507da5bd,1,6254.0,1861.7,172.4,cold,1,4742.0,13030.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:22,us,hyperbrowser,1298e7d3-4210-48a8-908e-927d3f535a00,1,248.1,164.5,102.7,cold,1,594.8,1110.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:23,us,browserbase,939ae98e-484b-4fae-87b8-7b38c893f3b0,1,328.6,526.3,336.8,cold,1,709.2,1900.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:25,us,steel,97a17725-5499-4de0-aae6-a687aa3b9812,1,276.8,716.0,202.0,cold,1,452.2,1647.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:26,us,browserbase,90c4d6f2-13e8-416e-a810-6d0d18f33b32,1,282.0,523.0,316.7,cold,1,590.5,1712.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:28,us,floppydata,f1b7538b-ac4a-4a91-b4a8-73b118a2f8c3,1,6085.9,2176.4,175.5,cold,1,1780.9,10218.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:38,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:01:38,us,kernel,tpkpkdcmdiy4hyxwmi5o8rxk,1,67.5,150.5,23.4,cold,1,363.9,605.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:39,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:01:39,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:01:39,us,browserless,,1,,974.0,85.0,cold,1,595.8,1654.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:41,us,hyperbrowser,f8f31ef1-2b89-4ba1-8348-e951b4bd7515,1,232.0,178.0,109.8,cold,1,640.4,1160.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:42,us,lightpanda,,1,,1065.3,95.7,cold,1,379.4,1540.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:44,us,lightpanda,,1,,1082.2,96.9,cold,1,403.3,1582.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:45,us,browserbase,bf9b6bf7-a7d8-4dda-a97b-13a7be426147,1,309.0,546.7,318.5,cold,1,603.1,1777.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:01:47,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:01:47,us,floppydata,6bd90fd9-1944-4bcc-8524-b7ff42433a70,1,6429.7,2569.6,166.4,cold,1,3426.1,12591.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:00,us,steel,7c3cf5ae-4404-405d-81eb-a98853a72c84,1,389.9,660.1,185.3,cold,1,425.7,1661.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:01,us,kernel,lgogqhtiw0nkjcx0nshn5clg,1,88.2,144.4,45.3,cold,1,334.8,612.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:02,us,browserless,,1,,848.3,97.9,cold,1,488.9,1435.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:04,us,hyperbrowser,9ac55af6-1c78-44bc-a522-3b29c297d59b,1,246.0,163.4,119.9,cold,1,621.7,1151.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:05,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:02:05,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:02:05,us,floppydata,a2b4906e-ad8f-4b4f-af01-45aa0a72e91d,1,7291.1,2601.6,172.7,cold,1,8829.5,18894.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:24,us,browserbase,23b1bba2-c2d2-4c20-a137-c5471706f326,1,317.2,594.1,314.6,cold,1,798.2,2024.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:26,us,steel,210c6030-661b-497b-837e-e29443a82f01,1,292.0,621.9,151.4,cold,1,437.4,1502.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:28,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:02:28,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:02:28,us,browserless,,1,,784.0,120.9,cold,1,540.7,1445.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:29,us,hyperbrowser,45009501-103c-443b-8f3c-6d570020a9e7,1,230.7,169.7,97.9,cold,1,604.8,1103.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:31,us,lightpanda,,1,,1057.3,95.8,cold,1,361.6,1514.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:32,us,kernel,szy8oig6buhqfn45x7hmv33o,1,59.8,104.5,47.5,cold,1,380.4,592.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:33,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:02:33,us,steel,13af8283-2c99-4071-a1b0-8223a9f7a22d,1,309.6,709.7,179.7,cold,1,479.6,1678.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:34,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:02:35,us,hyperbrowser,0401ece1-0d2c-477e-a263-19c70eb89915,1,234.9,165.2,98.7,cold,1,624.2,1123.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:36,us,browserless,,1,,786.9,64.0,cold,1,576.4,1427.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:37,us,lightpanda,,1,,1048.6,94.9,cold,1,230.8,1374.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:38,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:02:39,us,kernel,scu4y1tp8jhqvonr39eucci3,1,42.1,105.9,78.0,cold,1,308.6,534.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:02:39,us,floppydata,bc21e409-a102-40c5-a7ae-ad3cfd6b5469,1,9500.0,2083.1,170.0,cold,1,27200.8,38953.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:18,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:03:18,us,browserbase,ac6810d9-9fb6-405c-86fa-5764dd216f91,1,334.1,540.8,316.3,cold,1,593.8,1785.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:20,us,floppydata,0141950e-5c83-423a-aa68-b8b3fad5af3a,1,5878.9,1984.4,160.8,cold,1,1787.4,9811.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:30,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:03:30,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:03:30,us,hyperbrowser,efe3a770-3106-433f-b0d9-b8c7978d22cb,1,230.0,183.1,100.0,cold,1,717.4,1230.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:31,us,steel,8822afe8-8e59-424b-a64b-85eab5345bde,1,409.1,981.3,242.0,cold,1,457.8,2090.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:34,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:03:34,us,kernel,czz0i2dzo65atftujoxyvep0,1,61.6,70.5,43.5,cold,1,419.7,595.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:34,us,lightpanda,,1,,1052.3,95.3,cold,1,389.7,1537.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:36,us,browserless,,1,,732.0,68.3,cold,1,559.4,1359.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:37,us,browserbase,91568f28-8d69-47d3-b723-67deb5cb49f0,1,320.5,521.2,296.6,cold,1,553.2,1691.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:39,us,steel,485026af-aa42-431f-9012-f324cc43db90,1,323.4,699.3,149.3,cold,1,465.9,1637.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:03:41,us,floppydata,0a41c505-dc37-4546-a592-5e53fea20fcc,1,9245.0,2269.3,166.0,cold,1,7912.5,19592.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:00,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:04:00,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:04:01,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:04:01,us,kernel,cc308jn653g12shmmq3ki04i,1,22.9,89.0,43.8,cold,1,225.8,381.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:01,us,browserless,,1,,762.9,99.1,cold,1,487.8,1349.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:02,us,browserbase,95f67f4f-bbea-401f-b519-4f73a6dba514,1,325.6,543.3,297.2,cold,1,598.2,1764.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:04,us,lightpanda,,1,,1061.4,96.9,cold,1,222.9,1381.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:06,us,hyperbrowser,ebd6ad98-4514-4e8c-a3bd-ac94e34561ce,1,251.4,188.4,102.5,cold,1,633.2,1175.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:07,us,floppydata,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 502 service_error / browser_start / Failed to create browser session.
+20261114-1600-c1,2026-11-14 16:04:08,us,kernel,rqa5g97gma1qqplxma06jeau,1,44.9,106.2,21.5,cold,1,328.5,501.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:09,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:04:09,us,lightpanda,,1,,1072.1,97.9,cold,1,209.3,1379.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:10,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:04:11,us,hyperbrowser,0fa791a6-617b-4151-bd6d-fa75fb429634,1,217.3,163.5,101.5,cold,1,652.9,1135.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:12,us,browserless,,1,,817.8,67.6,cold,1,588.7,1474.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:13,us,steel,f4db1e3c-0254-43b0-b435-a3abb77d59c8,1,265.1,650.6,174.5,cold,1,412.7,1502.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:15,us,browserbase,c3c983de-6732-43d4-8954-fb0005c8f5ad,1,279.3,536.1,318.5,cold,1,589.5,1723.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:16,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:04:17,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:04:17,us,steel,33f4e1c8-d7d4-408e-8b46-125c96cb2847,1,264.7,911.6,188.8,cold,1,502.8,1867.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:19,us,browserbase,d0edec35-0ec0-41fd-9731-b2ce031399c4,1,391.6,525.3,319.6,cold,1,550.1,1786.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:21,us,kernel,x7g5u8wnwr04wufhpkc9jd8k,1,44.2,136.7,40.8,cold,1,355.8,577.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:21,us,floppydata,048a5665-f9af-4f5a-a317-663cc9316bf6,1,7363.3,2001.4,171.9,cold,1,4599.4,14136.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:35,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:04:35,us,browserless,,1,,765.3,95.0,cold,1,479.1,1339.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:37,us,hyperbrowser,23340316-fbaf-4493-a731-0700736cf501,1,236.7,180.3,105.4,cold,1,571.8,1094.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:38,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:04:38,us,lightpanda,,1,,1074.0,97.7,cold,1,205.6,1377.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:39,us,kernel,ok93122xh5jjs5gxmcl6of2q,1,41.8,105.7,75.0,cold,1,332.4,554.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:40,us,floppydata,2d761d98-d991-489e-bdd7-feb3420491e8,1,7193.7,2135.8,155.9,cold,1,9137.6,18623.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:04:59,us,hyperbrowser,8072651f-fdea-4872-adb6-50bb8ea88ec8,1,228.5,183.2,102.0,cold,1,583.1,1096.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:05:00,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:05:00,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:05:00,us,browserless,,1,,753.5,105.5,cold,1,653.4,1512.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:05:01,us,browserbase,d5d73cda-d38a-4b62-84ab-50a4acbc9cce,1,352.0,516.6,318.7,cold,1,604.7,1792.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:05:03,us,lightpanda,,1,,1057.3,94.9,cold,1,206.9,1359.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:05:05,us,steel,e6b360dd-ad67-48b0-b886-104768b5329d,1,385.3,673.5,242.3,cold,1,402.8,1703.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:05:06,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:05:06,us,steel,9fdd99b0-cc8c-45f1-befd-d0279c0d3562,0,395.0,662.7,,cold,1,,,,https://www.google.com/,"work: TimeoutError: Page.goto: Timeout 60000ms exceeded. Call log: - navigating to ""https://www.google.com/"", waiting until ""domcontentloaded"""
+20261114-1600-c1,2026-11-14 16:06:08,us,floppydata,612f0ee4-7ef2-49cb-b740-ecc1a9d3a8eb,1,8246.0,2567.2,154.4,cold,1,1225.1,12192.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:20,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:06:20,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:06:20,us,lightpanda,,1,,1079.9,97.4,cold,1,371.9,1549.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:22,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:06:22,us,kernel,i4v27m845lmle4k3f182yw9o,1,65.2,70.4,45.3,cold,1,443.9,624.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:23,us,browserless,,1,,942.2,119.9,cold,1,580.7,1642.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:24,us,browserbase,3ee0609e-c11e-48ea-b862-34e3fc588d57,1,371.4,570.7,316.6,cold,1,598.1,1856.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:26,us,hyperbrowser,109a83c4-e1b8-46a9-b865-01940af9cfbe,1,226.1,198.9,97.4,cold,1,626.3,1148.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:27,us,browserless,,1,,833.3,120.6,cold,1,569.3,1523.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:29,us,floppydata,479666aa-080f-4732-aa84-ad0e136cb6c2,1,4989.9,2162.6,160.7,cold,1,1136.0,8449.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:37,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:06:37,us,steel,e58a581e-4040-44b9-bd2b-e98a5722eb68,1,345.8,704.6,210.1,cold,1,510.0,1770.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:39,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:06:39,us,kernel,ulxps75myjhmssomzq14n0dw,1,37.6,89.4,37.4,cold,1,352.4,516.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:40,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:06:40,us,hyperbrowser,7358b3e2-7d82-4db3-8781-b33bd6c48ead,1,234.3,163.1,101.9,cold,1,623.9,1123.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:41,us,lightpanda,,1,,1076.1,98.0,cold,1,395.7,1569.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:43,us,browserbase,00d97728-f6d0-42fa-98a6-e4de372cdfa5,1,318.3,518.2,312.0,cold,1,588.7,1737.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:45,us,browserbase,aa98de43-ef3f-4a67-9170-87ef7a6da54b,1,321.3,525.3,312.1,cold,1,542.6,1701.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:46,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:06:46,us,hyperbrowser,4f2189dc-431b-49c3-8188-4ae0c8a1535c,1,260.1,181.8,98.4,cold,1,660.1,1200.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:48,us,kernel,ualypk4i7epb3r4we38dvn2l,1,46.0,155.3,35.9,cold,1,348.0,585.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:48,us,browserless,,1,,828.6,65.1,cold,1,601.2,1494.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:50,us,floppydata,340dcdf9-a4bb-4091-9203-cefb0b174117,1,6338.5,1914.9,166.2,cold,1,1261.4,9681.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:06:59,us,lightpanda,,1,,1062.4,95.2,cold,1,213.7,1371.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:01,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:07:01,us,steel,8900868f-91d9-470d-8462-5f38815aa6ce,1,350.3,582.8,173.6,cold,1,405.6,1512.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:02,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:07:03,us,floppydata,b8620f34-0b75-440f-abc8-3617ca71b187,1,7396.9,2005.1,162.3,cold,1,1167.7,10732.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:13,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:07:13,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:07:13,us,kernel,qurj45e6hzvutmllu777pks8,1,83.3,106.6,44.9,cold,1,364.6,599.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:14,us,browserless,,1,,750.3,86.1,cold,1,465.8,1302.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:15,us,hyperbrowser,2aa0cbe2-e6f4-48df-985a-ec0113cde029,1,236.2,157.2,105.0,cold,1,587.9,1086.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:17,us,browserbase,6e1a6a24-17b2-4548-a2e0-ad2cc67ef4b3,1,315.3,567.0,319.2,cold,1,563.4,1764.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:18,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:07:19,us,lightpanda,,1,,1064.0,95.4,cold,1,219.8,1379.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:20,us,steel,ceed7524-16d6-4a52-a44a-06f9e0bf7272,1,329.6,600.9,175.8,cold,1,373.7,1480.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:21,us,steel,c0761226-0558-4369-bcf8-228e2e9fee11,1,246.8,508.7,171.0,cold,1,342.7,1269.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:23,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:07:23,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:07:23,us,browserless,,1,,1143.5,110.3,cold,1,845.3,2099.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:25,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:07:25,us,lightpanda,,1,,1104.8,102.0,cold,1,388.9,1595.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:27,us,floppydata,0ce45c74-bc3b-4e29-a21e-3441a07168f8,1,10020.2,2070.5,143.3,cold,1,1400.8,13634.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:40,us,kernel,azk4aiee5eey6ytum4mfzsha,1,54.6,149.7,40.8,cold,1,361.7,606.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:41,us,browserbase,7a8636e3-2d2f-4a24-8eea-6fa0146bbd3f,1,322.2,524.6,336.6,cold,1,546.6,1730.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:43,us,hyperbrowser,3b93dce6-80bb-4970-85dc-1f1d6428ea2d,1,234.5,156.4,100.3,cold,1,621.4,1112.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:44,us,browserbase,5ff246d9-e4af-411b-a8d0-c20f949c82cc,1,318.2,521.4,315.7,cold,1,584.4,1739.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:46,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:07:46,us,kernel,ghnlwkdz48y6nouna1pnl283,1,16.1,111.6,44.7,cold,1,302.5,474.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:46,us,steel,2ea67de5-832e-4d0d-bed0-6e54c2ac438a,1,303.6,470.5,207.4,cold,1,342.3,1323.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:07:48,us,floppydata,3a4858cf-844b-4039-b6f4-3638053e92f8,1,13013.2,1933.3,221.8,cold,1,21623.5,36791.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:24,us,hyperbrowser,1986829f-3ecd-4957-8177-eabcb7b9217a,1,233.3,175.1,96.1,cold,1,631.2,1135.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:26,us,lightpanda,,1,,1054.3,95.1,cold,1,258.2,1407.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:27,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:08:27,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:08:27,us,browserless,,1,,920.3,65.3,cold,1,652.9,1638.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:29,us,browserless,,1,,785.9,121.6,cold,1,536.3,1443.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:30,us,lightpanda,,1,,1080.5,97.6,cold,1,217.0,1395.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:32,us,steel,f5fd4984-c4f6-4062-a0b3-8f40b68a229b,1,374.7,1187.2,166.5,cold,1,398.0,2126.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:34,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:08:34,us,browserbase,334906a1-e77b-43c9-a66b-a950944a2bf6,1,337.0,538.3,295.1,cold,1,561.4,1731.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:36,us,hyperbrowser,fa7f6e4b-5e04-4fa9-9316-7af496a66f8e,1,236.2,163.6,103.4,cold,1,614.1,1117.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:37,us,floppydata,59c646de-9791-495a-92bd-46501a7e83a0,1,6531.0,2648.4,169.7,cold,1,1886.9,11236.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:48,us,kernel,mz6mkgwyubrpl9i4zzkekg9d,1,42.2,145.5,46.8,cold,1,367.9,602.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:49,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:08:49,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:08:49,us,lightpanda,,1,,1070.7,97.5,cold,1,400.3,1568.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:08:51,us,floppydata,ffbcf6c6-120f-4fc1-9096-89b7e2226e10,1,5792.5,2363.8,149.8,cold,1,1440.6,9746.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:00,us,browserless,,1,,951.5,67.3,cold,1,987.4,2006.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:02,us,kernel,kjkdlmypvl2mj141vogcufwu,1,71.8,100.7,23.0,cold,1,348.5,544.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:03,us,hyperbrowser,92b2441e-9c41-4b43-81e6-50c672a76eee,1,232.4,167.3,107.0,cold,1,618.1,1124.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:04,us,browserbase,25711dcf-615a-4b0b-89fa-307904f6965f,1,347.9,523.9,298.0,cold,1,590.6,1760.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:06,us,steel,d8fa1301-c28d-4510-820e-89aeef4cd804,1,292.7,626.0,167.9,cold,1,373.4,1460.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:07,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:09:08,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:09:08,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:09:08,us,browserless,,1,,1069.9,65.5,cold,1,903.5,2038.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:10,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:09:10,us,lightpanda,,1,,1052.0,95.6,cold,1,209.8,1357.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:11,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:09:12,us,floppydata,17b7dced-7579-4d66-8258-fd48913105ce,1,5273.9,2396.4,164.4,cold,1,1275.8,9110.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:21,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:09:21,us,kernel,z75lgj3vyaeg0k9hjcz9pjw3,1,41.7,135.7,27.4,cold,1,428.1,632.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:21,us,hyperbrowser,4d4cf8ae-31ec-4b3e-89ed-c9bf5d807ae3,1,230.2,181.3,99.8,cold,1,589.0,1100.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:23,us,steel,205a589e-b6e3-4cf2-b9cf-b536a7d07d04,1,262.0,671.1,188.4,cold,1,440.3,1561.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:24,us,browserbase,b066ad86-c2b5-4674-9906-2f9163547097,1,334.7,545.5,319.5,cold,1,630.7,1830.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:26,us,hyperbrowser,a7e1acbb-b0af-4479-b0a1-fd2decf06eeb,1,231.6,174.7,106.4,cold,1,629.9,1142.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:27,us,lightpanda,,1,,1048.6,94.7,cold,1,353.2,1496.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:29,us,floppydata,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 502 service_error / browser_start / Failed to create browser session.
+20261114-1600-c1,2026-11-14 16:09:30,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:09:30,us,steel,5f61a473-9e46-473c-ac56-9b64957a0ab9,1,288.5,615.1,177.1,cold,1,406.6,1487.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:31,us,browserbase,732b8ad7-a64c-4037-82fa-622bcc0cb2c9,1,321.1,527.0,296.1,cold,1,583.6,1727.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:33,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:09:33,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:09:33,us,kernel,p0k5nxtgpuhmb0g2uud5tg4l,1,36.4,95.5,38.1,cold,1,367.0,537.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:34,us,browserless,,1,,761.0,123.2,cold,1,521.5,1405.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:35,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:09:35,us,lightpanda,,1,,1047.5,94.7,cold,1,404.6,1546.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:37,us,kernel,drrs999b32o329q8mi8qel40,1,37.7,70.0,33.0,cold,1,306.6,447.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:37,us,browserbase,ea26e383-2925-496f-9509-9cb7ae1039c8,1,318.8,539.9,321.5,cold,1,553.9,1734.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:39,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:09:40,us,hyperbrowser,355778c1-0849-41fb-b433-9dd612585f5a,1,241.9,190.7,109.6,cold,1,619.8,1162.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:09:41,us,floppydata,e5908e01-15f5-414c-82ac-08f2262aa086,1,10903.9,2550.3,225.7,cold,1,42537.8,56217.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:37,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:10:37,us,browserless,,1,,798.2,73.6,cold,1,625.6,1497.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:39,us,steel,512e4c29-d009-4e74-b92b-cddb02226e56,1,499.2,726.1,185.0,cold,1,382.2,1792.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:40,us,hyperbrowser,f5093b23-3d07-4eeb-8556-768b887b3253,1,266.2,181.8,108.0,cold,1,613.6,1169.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:42,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:10:42,us,floppydata,81549cc2-3bc7-45fd-a388-3580c8917093,1,7583.0,1613.3,163.5,cold,1,2583.6,11943.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:54,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:10:54,us,lightpanda,,1,,1074.3,96.5,cold,1,360.3,1531.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:55,us,browserbase,09e302b8-a3c8-4676-8d0b-bcba41fb2cd1,1,334.6,582.3,337.7,cold,1,554.1,1808.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:57,us,kernel,eww2bs14e4fwlz1hiqexwebf,1,19.8,106.4,35.6,cold,1,306.2,468.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:58,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:10:58,us,steel,749bf165-9b77-4769-908a-3d81d347db62,1,275.9,504.2,171.4,cold,1,362.6,1314.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:10:59,us,browserless,,1,,746.0,121.4,cold,1,531.1,1398.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:01,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:11:01,us,browserless,,1,,732.1,119.2,cold,1,520.3,1371.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:02,us,floppydata,8521d6b8-3f5b-4537-8ff6-a260518bab2c,1,10428.6,1447.8,143.6,cold,1,1369.1,13389.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:15,us,kernel,e68mg3gr12fmixdqgiurko5m,1,27.4,103.1,46.0,cold,1,373.7,550.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:16,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:11:16,us,lightpanda,,1,,1049.6,95.0,cold,1,225.8,1370.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:17,us,browserbase,adc2ca50-4a1b-4b67-ac5e-d3cd703ede95,1,320.9,554.3,303.8,cold,1,531.7,1710.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:19,us,hyperbrowser,ca92d31b-d8e9-4b60-8c71-f0ddff0cd271,1,231.5,172.3,107.0,cold,1,639.2,1150.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:20,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:11:20,us,steel,94e06c81-1f39-4e0c-ac33-7d607a300b18,1,259.8,828.7,200.4,cold,1,428.4,1717.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:22,us,lightpanda,,1,,1088.4,96.7,cold,1,240.0,1425.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:24,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:11:24,us,steel,73256966-c25e-4528-9d01-6e2fd34646e1,1,274.9,728.6,172.9,cold,1,432.0,1608.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:25,us,hyperbrowser,4c2d61b8-bb03-407e-aa01-71b22eadfbcd,1,239.2,149.3,111.6,cold,1,608.4,1108.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:26,us,floppydata,74c84c5c-7d97-4796-9456-048742cdb908,1,5741.7,2223.7,163.6,cold,1,1100.1,9229.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:36,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:11:36,us,kernel,m22yav6od929a44w0v3p49nw,1,26.7,102.9,40.1,cold,1,432.9,602.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:36,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:11:37,us,browserless,,1,,794.5,66.0,cold,1,622.5,1483.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:38,us,browserbase,3a4c7f57-fbcc-44a1-a7ce-10f825556f12,1,313.8,522.5,319.6,cold,1,543.3,1699.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:40,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:11:40,us,lightpanda,,1,,1076.5,98.0,cold,1,225.0,1399.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:41,us,kernel,fvyqmj3dozprlb9x4lbqvufa,1,27.4,142.5,40.9,cold,1,354.9,565.7,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:42,us,browserbase,e1f6b717-02f7-4276-8e16-6c16aafda941,1,319.8,531.1,317.2,cold,1,597.8,1765.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:44,us,floppydata,f9c4a1f7-7d91-4a4a-ab16-bd449f7daa80,1,5482.2,2210.6,190.5,cold,1,2943.0,10826.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:55,us,browserless,,1,,777.4,86.8,cold,1,570.0,1434.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:56,us,steel,807e011d-f9bc-4c40-9ea4-bfcdad35e4f5,1,444.2,636.7,310.4,cold,1,454.7,1846.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:58,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:11:58,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:11:58,us,hyperbrowser,8ca9ebb7-ed42-4dcb-ab71-cf731dbdd8a9,1,241.3,159.7,101.5,cold,1,577.6,1080.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:11:59,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:11:59,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:11:59,us,steel,74deae80-4b70-4ad6-bc11-e0c9e68163c8,1,576.4,582.2,481.5,cold,1,484.5,2124.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:02,us,kernel,lpo80qur044ulzz1apx53xp5,1,59.3,107.5,48.9,cold,1,357.4,573.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:02,us,browserless,,1,,901.5,120.6,cold,1,517.7,1539.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:04,us,lightpanda,,1,,1029.1,93.8,cold,1,222.0,1344.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:05,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:12:05,us,floppydata,895101f0-3a93-44f9-8d1a-e949b747b331,1,5996.1,3121.5,239.8,cold,1,11923.0,21280.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:26,us,hyperbrowser,ae217a00-416e-4cbf-aaab-69eeb2744721,1,238.1,176.0,107.1,cold,1,594.6,1115.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:28,us,browserbase,d22242d1-1452-4ceb-aa21-1da8bb077266,1,340.1,553.0,318.0,cold,1,550.2,1761.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:29,us,lightpanda,,1,,1068.8,96.9,cold,1,210.6,1376.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:31,us,hyperbrowser,cc90a275-587d-4e2d-abe9-f6c998a1ff8c,1,231.7,156.8,106.0,cold,1,601.8,1096.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:32,us,steel,78ae9587-8e97-4b11-9a55-96101f3169c9,1,282.2,639.4,174.9,cold,1,409.3,1505.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:33,us,browserbase,59588287-f6fd-4610-8f16-b9df13842e65,1,320.6,518.9,318.8,cold,1,539.7,1698.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:35,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:12:35,us,browserless,,1,,744.3,121.8,cold,1,523.2,1389.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:37,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:12:37,us,kernel,v5c9qbu4satpwwh12dkexqeg,1,77.7,98.2,21.1,cold,1,311.4,508.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:37,us,floppydata,25c11aae-efae-4dad-96e5-faae6dfd9d74,1,5194.6,2447.7,167.2,cold,1,1105.5,8915.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:46,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:12:46,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:12:46,us,browserless,,1,,804.1,120.2,cold,1,578.3,1502.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:48,us,browserbase,7a92d305-b535-4a55-be83-8b00f5b6fd95,1,319.3,524.4,334.7,cold,1,565.1,1743.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:50,us,hyperbrowser,3bd56e5c-7940-4280-b651-75e1fd5888c4,1,241.5,152.7,108.0,cold,1,601.9,1104.1,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:51,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:12:51,us,lightpanda,,1,,1034.7,93.2,cold,1,224.6,1352.5,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:52,us,kernel,q15g96aljdsac8npkzuzedtm,1,46.5,71.8,48.9,cold,1,345.1,512.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:53,us,steel,7b51179b-e991-48c0-8a92-91767fbe942c,1,263.7,553.6,190.2,cold,1,409.4,1416.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:12:54,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:12:54,us,floppydata,9d3ae31e-5a81-4273-9780-92075c0f8030,0,6030.3,2378.0,,cold,1,,,,https://www.google.com/,"work: Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.google.com/ Call log: - navigating to ""https://www.google.com/"", waiting until ""domcontentloade"
+20261114-1600-c1,2026-11-14 16:13:04,us,lightpanda,,1,,1072.2,97.8,cold,1,217.2,1387.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:05,us,hyperbrowser,798de218-2e50-410a-b77b-efe0f6a012fc,1,232.4,165.0,100.0,cold,1,5297.5,5794.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:11,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:13:11,us,kernel,d89uejf6ikgj13tyktjdtfgd,1,43.4,127.7,47.2,cold,1,400.5,618.8,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:12,us,steel,07aab75a-e59a-4fb6-9ad0-05a0706d321e,1,547.6,669.8,181.5,cold,1,476.3,1875.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:14,us,browserbase,64c25c31-e841-4359-86c4-16c47d850508,1,325.9,515.4,315.3,cold,1,551.0,1707.6,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:16,us,browserless,,1,,808.2,119.6,cold,1,650.1,1577.9,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:17,us,floppydata,7e473fb5-231f-45f8-a031-3ec2db45b455,1,5345.3,2209.9,154.3,cold,1,1318.7,9028.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:26,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:13:26,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:13:27,us,steel,a327af66-2cca-464b-8e71-1b0f2a6172dd,1,261.2,500.6,160.6,cold,1,320.6,1243.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:28,us,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-1600-c1,2026-11-14 16:13:28,us,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-1600-c1,2026-11-14 16:13:28,us,kernel,jineteec9v7g3g2sogxri1vf,1,42.6,96.1,47.2,cold,1,219.5,405.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:28,us,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261114-1600-c1,2026-11-14 16:13:29,us,hyperbrowser,48e357f6-e670-4c62-850f-ec48bfa7b32f,1,222.1,168.7,106.6,cold,1,611.8,1109.2,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:30,us,browserbase,90fdf283-77af-42f0-bc10-e85154c595e2,1,351.3,572.5,309.2,cold,1,534.0,1767.0,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:32,us,browserless,,1,,812.8,66.8,cold,1,588.8,1468.4,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:33,us,floppydata,be1347d3-aa13-4084-a155-b289fafb698e,1,6348.9,2283.4,185.7,cold,1,1349.3,10167.3,200,https://www.google.com/,
+20261114-1600-c1,2026-11-14 16:13:43,us,lightpanda,,1,,1060.2,95.7,cold,1,217.4,1373.3,200,https://www.google.com/,

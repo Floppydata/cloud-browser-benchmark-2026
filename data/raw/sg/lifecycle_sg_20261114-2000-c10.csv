@@ -1,0 +1,181 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:44,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,ffa1984c-8e4d-4d98-afaa-f9da6dc42542,1,682.4,1274.5,678.0,cold,10,831.1,3466.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,681dae9f-97ac-4beb-9600-35bca839da67,1,661.9,1283.5,652.4,cold,10,801.7,3399.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,b6312147-f382-44eb-b02d-edd0cdfae32c,1,688.2,1265.3,651.6,cold,10,837.6,3442.7,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,5637ca15-88b8-479c-8526-202c7a9889f8,1,676.3,1249.2,671.9,cold,10,856.1,3453.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,d2cabb10-ec3b-45d4-a0cd-3c0e90421210,1,643.8,1277.9,669.1,cold,10,822.8,3413.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,e544ae0b-3a43-44f3-b83c-35791367d3f0,1,685.1,1265.4,670.8,cold,10,826.7,3448.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,31da648d-bc33-4e76-ae1a-4134970a3593,1,1280.9,1234.3,670.1,cold,10,787.3,3972.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,2468c661-303e-4ebc-bf3d-b0ce7dfea9dc,1,1378.5,1239.9,668.9,cold,10,803.7,4091.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,c30ab907-633c-44aa-9e3e-ffd964373452,1,1345.5,1235.3,672.6,cold,10,789.8,4043.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:46,sg,browserbase,e1afffc0-52ad-4ed2-bc9d-cf3a92b4c510,1,1337.7,1241.8,751.8,cold,10,818.1,4149.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:50,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,86fec0d8-7761-41e0-9eec-624d4e8aac9b,1,6330.6,3052.7,232.9,cold,10,1760.8,11377.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,cf1818c5-a8a9-467c-8e6a-b9447e9e1019,1,5425.7,3101.3,401.2,cold,10,4367.0,13295.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,6bd1a49b-403a-4732-b01b-171a22fab26c,1,7959.7,2122.2,272.9,cold,10,3186.0,13540.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,b7601564-1960-4167-bcb2-ef5e9964b040,1,6728.3,2054.6,235.1,cold,10,2947.3,11965.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,1a6dc332-e298-45c5-856b-fe90f14cd46e,1,9901.6,2294.8,243.9,cold,10,1410.9,13851.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,d62847f9-fe13-4d1a-a699-bcd82d57aec0,1,5796.4,2948.5,270.7,cold,10,2439.2,11454.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,0434b623-de42-4534-9b11-505e6a25afc2,1,10498.3,2141.9,226.7,cold,10,1389.2,14256.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,e4d28175-f8b5-4023-8727-63e42bcdecc5,1,12536.5,2197.4,288.2,cold,10,2844.5,17866.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,a0251a7e-60f5-46ec-96a2-7f3cd4eb9400,1,11601.1,2528.6,226.2,cold,10,2792.1,17148.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:34:51,sg,floppydata,95efdb1c-0b9a-4553-9e7f-5228b3ea85c0,1,13452.6,2535.1,301.4,cold,10,7722.1,24011.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,1,,1777.2,253.8,cold,10,787.1,2818.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,1,,1728.3,202.9,cold,10,863.3,2794.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,1,,1692.3,347.9,cold,10,745.6,2785.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,1,,1685.4,405.2,cold,10,662.4,2753.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,1,,1670.0,242.5,cold,10,663.9,2576.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:35:15,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_dcf3e31d34632355,1,493.7,5135.6,244.5,cold,10,671.7,6545.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_b4e7d1df64906324,1,491.7,5503.0,220.0,cold,10,764.9,6979.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_fa6567610f0c4a80,1,535.3,5107.8,221.0,cold,10,697.5,6561.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_d74ecdca17261e20,1,448.8,5016.8,223.1,cold,10,714.6,6403.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_008f23cf2c9aa919,1,528.9,5285.4,222.7,cold,10,741.8,6778.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_cfa9e707dae11450,1,486.2,5278.9,233.0,cold,10,699.5,6697.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_183768b5e3b50665,1,523.2,8034.8,206.1,cold,10,646.7,9410.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_924dbb58c3b15ca3,1,514.8,5004.8,217.6,cold,10,692.4,6429.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_df766e9352a5cfa4,1,540.5,5195.3,214.6,cold,10,660.3,6610.7,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:18,sg,gologin,id_6a6719635d933b01,1,533.7,5290.5,221.2,cold,10,681.7,6727.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,e9a693eb-647b-4c27-9dbc-2c310715dbd5,1,1452.3,2179.5,407.0,cold,10,913.7,4952.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,44a58e1d-b98e-4983-bd7c-fd98634d8dd6,1,758.5,1929.6,419.6,cold,10,1116.7,4224.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,2687e950-138f-4d8d-854c-ab4add472016,1,1480.0,1922.5,396.8,cold,10,1170.3,4969.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,987630d7-267c-4b07-a113-cda288c4243b,1,820.7,2178.2,1231.8,cold,10,916.6,5147.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,b162c938-e55c-4f97-b458-8c673ac4ad8e,1,786.7,1930.4,406.1,cold,10,1112.3,4235.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,7c0cd5dc-bcc9-4e94-b017-3bdcc5a27dd7,1,724.6,2185.4,410.2,cold,10,874.2,4194.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,ec7e772c-fd21-444d-9d10-0178b4103e5e,1,1936.3,1914.8,400.9,cold,10,1029.1,5281.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,51755fa9-db25-423a-970f-51927951a9be,1,1266.4,2178.2,385.3,cold,10,933.0,4762.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,19faeba3-b02b-4c39-b16f-3ff7ff242c53,1,1478.2,2184.5,471.6,cold,10,892.3,5026.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:48,sg,steel,e7133eba-85a2-4b85-9719-f4422fd2002f,1,1368.6,2175.7,533.8,cold,10,1034.0,5112.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,1,,1828.4,165.0,cold,10,648.8,2642.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,1,,1824.4,163.0,cold,10,677.4,2664.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,1,,1817.0,163.3,cold,10,618.9,2599.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,1,,1820.7,163.8,cold,10,291.6,2276.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,1,,1813.7,164.9,cold,10,291.4,2270.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261114-2000-c10,2026-11-14 20:35:54,sg,lightpanda,,1,,1818.5,162.7,cold,10,617.3,2598.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:57,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,daf0e17a-ccde-4d51-bfd4-7dce8ed6d423,1,701.7,1230.1,707.0,cold,10,797.0,3435.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,101f59e1-88bd-4644-922f-0fe4f13b7d70,1,684.9,1436.0,671.7,cold,10,771.6,3564.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,5f6271b9-3b23-4809-9913-160bcb19cba2,1,691.7,1236.7,648.6,cold,10,853.1,3430.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,5a6cb562-3567-43c2-b2d1-ba36cf61b1c7,1,681.7,1241.3,670.2,cold,10,806.8,3400.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,3a44eddf-eb49-440b-b11e-ab26020df8be,1,688.0,1236.3,653.4,cold,10,808.0,3385.7,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,5c040918-9a92-4d43-8dba-47938f83c839,1,693.5,1430.3,673.5,cold,10,786.6,3583.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,4bdf98de-680c-4689-96d5-1528a2814363,1,1357.9,1228.5,653.9,cold,10,840.1,4080.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,7ee49dfe-2f0a-4f74-9334-3a7e45f982ff,1,1362.9,1436.7,671.1,cold,10,788.1,4258.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,2789f7fd-b171-4f6d-8e95-2f89797135bf,1,1364.9,1224.2,653.3,cold,10,806.3,4048.7,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:35:59,sg,browserbase,ebd04f73-2062-418b-a748-1f68fac6d17a,1,1333.8,1241.5,671.7,cold,10,808.2,4055.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:04,sg,browseruse,,0,,,,cold,10,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,b20a2a29-2f74-4517-ab0f-6a965ee91eb7,1,6281.5,2309.6,252.8,cold,10,31367.4,40211.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,4f534210-1504-4e11-9420-596ab5a017f7,1,7071.0,2409.0,230.0,cold,10,2410.4,12120.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,24596da9-2ce4-4da6-b630-d2357a322deb,1,7502.1,1954.9,262.5,cold,10,1095.3,10814.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,385258df-35f7-4b5e-9ff3-35692a23a847,1,8124.1,2365.4,238.0,cold,10,1314.9,12042.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,52b3fba9-af6a-40a1-9911-4a1a6b5f501b,1,6864.1,2241.0,219.9,cold,10,1535.9,10860.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,3ec96d02-2831-495e-83fd-74a8fc63dd57,1,6350.6,2219.3,266.9,cold,10,2461.9,11298.7,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,aea44c88-eb2c-444c-b6ab-84fc83fb07c6,1,13248.2,2433.0,228.5,cold,10,2943.8,18853.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,5b473f4c-7b0d-44b2-a63f-7ecaebc7f112,1,15600.9,2963.7,279.1,cold,10,6081.6,24925.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 502 service_error / Browser could not be started.
+20261114-2000-c10,2026-11-14 20:36:06,sg,floppydata,3779db27-6fc5-4914-b79d-69a21864a514,1,17705.4,2858.2,388.8,cold,10,3567.0,24519.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_cbcc2e4f7d43a6b0,1,640.7,4886.1,208.9,cold,10,672.3,6408.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_0a5cca56060746a0,1,552.9,6439.0,231.2,cold,10,755.2,7978.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_d18af10573618d3b,1,529.1,5037.0,222.2,cold,10,737.0,6525.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_5f0946c1381117df,1,502.5,5633.6,220.1,cold,10,725.7,7081.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_6a982bb2dd04fb13,1,518.3,5139.6,230.5,cold,10,693.2,6581.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_4b0448dd4102207a,1,529.0,5619.5,221.2,cold,10,692.2,7061.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_0e5ad5caa716ad3f,1,522.6,12436.2,190.6,cold,10,618.5,13767.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_0a2117878ed875b4,1,491.5,10149.6,195.0,cold,10,635.7,11471.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_a0b7aa8e63781691,1,486.3,5214.0,224.1,cold,10,682.5,6606.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:36:46,sg,gologin,id_5052f62f0d69c22d,1,505.3,5397.0,210.4,cold,10,776.5,6889.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,1,,1622.3,217.4,cold,10,679.7,2519.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,1,,1568.4,237.1,cold,10,734.1,2539.6,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,1,,1636.7,574.1,cold,10,659.7,2870.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,1,,1631.5,559.0,cold,10,666.4,2856.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,1,,1699.9,392.7,cold,10,695.5,2788.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:20,sg,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,de71f666-2370-4a56-a531-e0a44d632849,1,1305.5,1910.4,387.8,cold,10,1105.5,4709.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,e54a64e2-2b22-41b9-8e58-0a4aacf99f6f,1,612.3,1937.4,414.7,cold,10,1084.4,4048.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,e2bb3fee-53c8-40bc-b8e2-65d831d37bbe,1,667.4,2166.8,427.5,cold,10,896.3,4158.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,8de829c4-bf23-458f-ba8d-9d76ae7d989b,1,1311.3,1926.3,425.5,cold,10,1091.4,4754.5,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,624d1c03-264f-4b67-91a2-b2398089dd8b,1,617.1,1914.4,411.6,cold,10,1114.8,4057.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,b87062dc-45cd-4374-8d38-4cae30e651a7,1,1277.0,1915.6,1132.3,cold,10,1031.4,5356.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,018bbc6a-00bd-44c4-bfa2-19de2e4c9225,1,1184.2,1920.7,396.6,cold,10,1127.6,4629.1,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,a37d519a-4e67-48b4-9d29-f8264af84062,1,1137.1,1936.2,402.7,cold,10,1124.4,4600.4,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,e41ff9f9-d1be-409a-8835-338db1a35c22,1,1261.7,1915.5,404.4,cold,10,887.1,4468.7,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:23,sg,steel,20edd1e0-7595-4eb7-a3b2-29ac3dda9bb9,1,1616.8,1930.2,399.3,cold,10,905.9,4852.2,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:29,sg,hyperbrowser,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:30,sg,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,1,,1954.3,176.9,cold,10,285.6,2416.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,1,,1817.9,163.5,cold,10,624.6,2606.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,1,,1826.0,162.7,cold,10,445.2,2433.9,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,1,,1843.6,164.8,cold,10,297.6,2306.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,1,,1894.9,171.0,cold,10,279.4,2345.3,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,1,,1821.0,164.8,cold,10,296.0,2281.8,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,1,,1812.3,165.0,cold,10,668.7,2646.0,200,https://www.google.com/,
+20261114-2000-c10,2026-11-14 20:37:31,sg,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws

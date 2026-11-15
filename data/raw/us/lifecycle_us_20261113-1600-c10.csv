@@ -1,0 +1,181 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,a9ffb3eb-c4a0-4f05-98a9-3dccf32d686b,1,348.5,227.1,104.5,cold,10,592.8,1272.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,be4b41d5-e05e-43ac-8377-fc48f5de412e,1,373.5,578.9,117.1,cold,10,625.7,1695.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,351a6dd6-4f82-473a-85af-8ff0249e2080,1,347.9,298.1,103.2,cold,10,606.1,1355.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,1e9dd723-fdc2-437a-a4b0-4a80ceac8636,1,349.8,616.5,106.4,cold,10,595.9,1668.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,d8ab39e9-7e9d-4962-80db-602f606fb665,1,336.3,580.6,119.2,cold,10,618.9,1655.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,5d5a4cc0-4e02-4caa-84ee-01502c07adba,1,389.5,256.9,99.9,cold,10,640.1,1386.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,f4943cc2-a65a-49a7-9867-6cebd485679c,1,381.0,255.0,106.2,cold,10,542.7,1284.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,b72cd26e-7a4b-4962-8591-59623387cdfd,1,582.5,185.0,1429.6,cold,10,639.1,2836.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,0ac19b15-3def-421f-980b-0be0d95e9e07,1,573.1,575.1,114.9,cold,10,592.9,1856.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:42,us,hyperbrowser,d2b3282e-aec4-4805-8a00-4d718a92c354,1,578.8,608.4,121.7,cold,10,634.2,1943.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,70ab2435-0f19-449e-ad0c-7ae8d5a0eb66,1,404.2,813.7,229.1,cold,10,491.9,1938.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,2c414fe1-4185-4f54-951b-e8c7956a20ce,1,391.3,609.7,224.8,cold,10,453.4,1679.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,3126eadb-613b-4bd5-b823-6537eb19181d,1,307.4,581.2,251.5,cold,10,348.1,1488.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,88881fdc-122e-464e-9aee-02be3d41b7c7,1,321.8,685.4,218.8,cold,10,404.7,1630.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,63400178-ab0f-4c4e-833c-36667e2e2f6f,1,367.7,626.0,234.3,cold,10,447.0,1675.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,3eea3c9f-bcb1-4d0a-848d-408ff08148eb,1,381.1,1183.1,203.8,cold,10,483.4,2251.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,491fe67f-0c6b-4aeb-aec3-c88d43f3e9b2,1,389.5,711.8,252.8,cold,10,405.9,1760.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,4e65a2eb-53e1-40c2-9199-1793327ccdf4,1,659.3,617.9,236.8,cold,10,344.5,1858.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,40531974-bc99-47d7-a302-aab05f0c2925,1,655.0,699.7,167.4,cold,10,475.3,1997.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:45,us,steel,81ad7e32-033f-4b2f-98d4-017140e7eedd,1,725.5,797.8,170.9,cold,10,477.5,2171.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,1,,1059.5,95.9,cold,10,369.3,1524.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,1,,1099.6,97.0,cold,10,220.3,1416.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,1,,1080.9,95.9,cold,10,364.7,1541.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,1,,1054.1,93.8,cold,10,374.3,1522.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,1,,1079.7,96.3,cold,10,382.4,1558.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,1,,1049.1,94.6,cold,10,210.9,1354.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,1,,1071.1,93.9,cold,10,358.9,1523.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:47,us,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,e3c95410-4244-4abc-8bdc-8881befb9ce8,1,7629.6,2808.5,183.7,cold,10,2570.1,13191.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,ed2ba0a0-9c2c-49b4-870c-1d69eb6c3ea7,1,9743.1,2302.6,161.2,cold,10,1438.1,13645.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,2c877bf5-4cbd-42a3-90f1-be10846d46c1,1,17548.3,2295.7,163.8,cold,10,1339.2,21347.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,a003af2a-c3ff-4c70-bc8b-029e4e0f13c1,1,21432.1,2238.5,157.8,cold,10,1597.4,25425.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,9433f1ac-d22d-453d-b4b3-d9a8f5533866,1,12694.7,2415.3,170.5,cold,10,1603.0,16883.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,aec68bd5-3ed4-41b1-9337-3e22e60fca73,1,20283.8,2283.6,178.6,cold,10,2548.8,25294.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,37a26b83-f782-4ad6-b4dd-420187708fde,1,8807.6,2208.5,160.8,cold,10,2079.2,13256.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,9bcebde1-3738-4b95-9ef9-568255e6dd38,1,16530.2,1624.7,154.6,cold,10,1279.2,19588.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,25a2de00-952c-4023-9acd-079507b9c286,1,18371.7,2400.5,191.8,cold,10,5580.2,26544.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:24:48,us,floppydata,9e2ac214-f470-45ba-b7b2-404d8ea00b48,1,15793.7,2389.7,184.5,cold,10,1486.1,19854.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,1,,731.0,119.5,cold,10,474.0,1324.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,1,,815.6,68.6,cold,10,654.7,1538.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,1,,1576.9,70.4,cold,10,1369.7,3017.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,1,,860.4,66.1,cold,10,675.4,1601.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,1,,839.2,67.9,cold,10,618.9,1526.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:25:15,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_a0c0a2683c23b220,1,312.7,4908.3,145.6,cold,10,595.4,5962.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_06462b3fd0f798c3,1,306.4,5181.7,146.6,cold,10,654.7,6289.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_95f5c11167a8662d,1,412.9,5430.7,155.7,cold,10,637.1,6636.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_339025234b08b16a,1,307.3,5583.1,148.1,cold,10,736.7,6775.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_72690e5ba00b889f,1,292.6,5344.7,137.8,cold,10,694.8,6469.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_02611852ab206707,1,337.7,5434.4,161.2,cold,10,656.8,6590.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_f0de0dd3cf6e9b8d,1,355.1,7828.5,113.3,cold,10,548.9,8845.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_10e1c0f21c5416ee,1,304.2,8275.8,124.1,cold,10,556.3,9260.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_9d0ed4b40abb0581,1,323.2,5172.1,147.6,cold,10,659.5,6302.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:18,us,gologin,id_c5606aaaefa1afcb,1,332.9,4904.1,156.9,cold,10,644.6,6038.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,0711550b-3c04-4a87-9cfa-e37569b2f57e,1,218.7,235.6,75.5,cold,10,453.8,983.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,4452c975-f2e6-474a-b5a1-3560c71283f9,1,216.1,215.5,74.1,cold,10,453.6,959.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,57c49f3c-a8d5-48d6-a784-b27993ab0746,1,227.0,211.9,81.0,cold,10,454.1,974.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,845f47dd-6cd5-46d3-8e1e-3a136326c610,1,213.1,199.5,82.4,cold,10,471.4,966.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,4ac538dd-4ab3-4bb5-b78b-8dc60397590b,1,211.2,199.5,76.7,cold,10,433.4,920.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,75b2e0d9-a7d4-44d7-8dc2-20fc6da45c51,1,232.9,246.5,70.9,cold,10,481.2,1031.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,7e1bf38b-3bb3-41cc-be07-995e261fe2f2,1,222.2,230.1,71.2,cold,10,459.6,983.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,ca425211-0230-43b0-a601-ed433f28a9e2,1,403.0,208.1,74.3,cold,10,410.4,1095.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,06ebaa59-00f8-4b4a-901c-daf32e6a2710,1,404.5,215.2,72.8,cold,10,428.5,1121.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:50,us,browseruse,1a7a210b-9e83-489a-959e-285691c2daac,1,399.0,203.1,62.2,cold,10,486.5,1150.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,aa8e563b-e553-4173-a9c4-b834035471c6,1,324.8,556.7,341.8,cold,10,582.3,1805.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,56272528-d903-4692-9304-d220cadfe1f7,1,326.7,634.6,344.5,cold,10,603.6,1909.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,375b0959-a0b1-4554-8402-d44fda5400dc,1,328.8,572.8,326.9,cold,10,560.8,1789.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,1e71e368-41ac-43e2-90f5-c2b8365cc5b4,1,333.7,577.5,350.4,cold,10,616.5,1878.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,be13b56e-ee91-45af-97eb-4b5d51b3c744,1,330.7,583.4,340.6,cold,10,550.6,1805.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,008d58de-242d-4329-8985-6e41caffd417,1,322.1,556.7,330.0,cold,10,586.8,1795.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,bc521cf0-7993-42e5-bdbd-a8d609471f26,1,332.5,644.9,347.9,cold,10,639.0,1964.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,697f8e76-0213-4178-8cb0-49044eb1e8d4,1,640.1,517.4,414.9,cold,10,551.8,2124.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,5eedf437-b71f-4f0b-b1a8-c28ac9d24442,1,644.3,516.8,391.0,cold,10,588.3,2140.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:51,us,browserbase,fd8de652-597e-412b-993c-c4024ca09dbf,1,642.4,521.2,372.8,cold,10,618.0,2154.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_d0fda879b77248b9,1,329.8,5690.9,168.3,cold,10,726.1,6915.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_19c3c9b47a782678,1,302.0,5248.7,150.2,cold,10,675.1,6376.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_b0d21a6496441ef0,1,302.4,4748.5,146.1,cold,10,730.9,5927.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_d29bc6bd58b3baf8,1,308.1,6430.0,112.9,cold,10,539.1,7390.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_fe68a4e15ebd88aa,1,312.0,11381.2,112.3,cold,10,542.9,12348.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_72832877e7cb84a5,1,264.4,5813.8,166.3,cold,10,699.5,6944.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_e8e4b34030a4b905,1,312.1,5732.8,148.4,cold,10,661.3,6854.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_af99f9e5c7860aad,1,316.7,4911.1,148.1,cold,10,655.6,6031.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_0ee8b4fe5d0e7f9c,1,371.4,5358.3,137.5,cold,10,778.8,6646.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:25:53,us,gologin,id_2c77481165850330,1,285.2,5210.6,149.2,cold,10,657.6,6302.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,185722ec-00ae-477f-b0c0-a71f79e7113c,1,309.2,516.7,347.5,cold,10,595.2,1768.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,48f72351-2242-40b4-9074-151a506ca405,1,318.0,509.3,324.6,cold,10,646.5,1798.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,ea6ff892-1924-423d-b1d9-d97cb537f2ff,1,277.9,537.6,335.1,cold,10,603.1,1753.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,807d46ad-8ae5-4bf2-84a8-f84f4cdd391c,1,303.7,596.4,326.0,cold,10,618.8,1844.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,4258ad0d-227c-4acd-b9fe-e0d4d341ba92,1,306.9,515.2,325.9,cold,10,547.4,1695.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,fc1c5b06-a34e-4135-9cdf-e13d80b588b2,1,329.3,513.7,321.1,cold,10,667.9,1832.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,03db5940-75e1-4a28-aab2-3fc4a6b0532c,1,323.1,526.0,336.7,cold,10,557.0,1742.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,4226c5b8-f02d-4d72-9360-04fc1e558691,1,561.6,584.4,358.4,cold,10,561.1,2065.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,cc1095ca-6122-445c-9b3d-0b4fcab4c5db,1,588.6,524.5,359.9,cold,10,588.3,2061.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:24,us,browserbase,1b74ca39-c1a5-458e-8ed8-8ab3f48e3460,1,591.7,530.0,353.1,cold,10,551.2,2026.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,f2bb497f-75a4-45a5-8d9c-bae126dead28,1,11382.2,2039.4,192.2,cold,10,6282.1,19895.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,7c6136de-44b9-4f6f-a122-a323af1f7b51,1,9634.9,2443.6,238.0,cold,10,1265.5,13582.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,c05cb065-2f34-4ec2-8d5b-158a3de12403,1,9693.6,2182.7,184.0,cold,10,4565.1,16625.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,f20cc0f0-110a-4f9e-afc2-74fccf49e792,1,13365.5,2060.5,190.8,cold,10,2656.0,18272.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,365231cc-7ec1-4864-a553-0009fce5870d,1,7920.9,2305.7,196.4,cold,10,3749.0,14172.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 502 service_error / Browser could not be started.
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,10b978fd-917c-41b1-92f5-8187d172e19b,1,6770.3,2059.6,186.0,cold,10,1678.2,10694.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,9dcc64f7-14bf-4bf7-93b5-cb351af28811,1,12874.7,2216.7,181.3,cold,10,3294.1,18566.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 502 service_error / Browser could not be started.
+20261113-1600-c10,2026-11-13 16:26:26,us,floppydata,10258692-0191-44f6-855e-c99a310a8bf4,1,15221.1,2379.6,191.2,cold,10,2308.8,20100.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,1,,799.4,109.4,cold,10,528.7,1437.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,1,,818.0,73.3,cold,10,591.6,1482.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,1,,743.0,93.0,cold,10,547.6,1383.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,1,,1277.1,65.9,cold,10,662.6,2005.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,1,,747.5,66.8,cold,10,593.5,1407.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:26:58,us,browserless,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://production-sfo.browserless.io/chromium 429 Too Many Requests <html> <head><title>429 Too Many Reques
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,4f4e0f20-9dd3-4bca-9a89-0cf841ceaee2,1,191.0,236.8,89.6,cold,10,462.9,980.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,db80ac85-85f7-4d30-9f89-c4290a79070d,1,188.8,230.8,71.7,cold,10,422.4,913.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,9314daeb-7fb1-4ff0-bf4c-ec7eb59db83e,1,186.7,230.9,97.7,cold,10,476.9,992.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,3d63d976-80f7-4b3a-b927-167949db9d42,1,194.7,274.6,84.1,cold,10,551.7,1105.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,8c844748-ed1f-4137-9086-b21866b660eb,1,193.3,265.7,81.1,cold,10,417.8,957.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,b7489044-a999-4ab2-87a6-2db919a7b238,1,201.3,285.6,110.6,cold,10,452.7,1050.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,f7bdcb33-45b0-4f0d-a03d-e4c489dfc1e1,1,191.7,258.7,85.3,cold,10,468.4,1004.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,289ed51a-4eeb-4bde-a5c7-446210219cdc,1,410.1,211.0,67.7,cold,10,486.7,1175.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,93f1db27-6740-46fb-b1f3-693eab07f02f,1,392.3,219.5,88.6,cold,10,429.0,1129.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:00,us,browseruse,0946147a-ba73-4d5e-9fb5-c008990508f7,1,372.3,186.0,88.8,cold,10,460.9,1108.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,1,,1054.6,95.8,cold,10,346.8,1497.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,1,,1057.2,95.5,cold,10,382.9,1535.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,1,,1070.5,96.1,cold,10,394.2,1560.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,1,,1053.7,95.3,cold,10,223.0,1372.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,1,,1076.7,98.2,cold,10,243.9,1418.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,1,,1068.9,96.9,cold,10,252.2,1418.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261113-1600-c10,2026-11-13 16:27:02,us,lightpanda,,0,,,,cold,10,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,7f37b8e7-7ff8-4650-995c-ca1f05dcfeb3,1,258.2,567.7,109.7,cold,10,576.4,1512.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,aeead53a-1940-4b7e-92e4-56d05236d7d4,1,285.5,629.9,110.1,cold,10,578.9,1604.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,2ceafa76-e19a-4865-a56c-2962d9486271,1,350.5,192.6,111.1,cold,10,611.7,1265.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,9dd49978-b13e-4607-88e6-5a8ae7c8d76c,1,310.3,214.7,108.1,cold,10,577.7,1210.8,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,12738a58-7842-442c-8b7e-6746b12badc1,1,303.2,201.8,114.0,cold,10,626.0,1245.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,a146ede1-da45-4da3-8697-38656fca7057,1,305.4,592.0,112.6,cold,10,650.2,1660.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,dcf6f7a3-237d-43c1-851d-8c5df792b8f1,1,272.5,167.1,108.9,cold,10,679.9,1228.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,b0198285-2f12-4ee5-8047-1d4e32df8133,1,496.5,513.2,112.3,cold,10,591.5,1713.5,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,4b98d423-bc9d-43bb-9400-4a42f8c98cea,1,624.2,178.1,111.9,cold,10,587.1,1501.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:03,us,hyperbrowser,ca70d1ce-998a-4d8e-ac8b-b9488dff60df,1,614.5,519.6,112.7,cold,10,582.3,1829.1,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,e8ec7415-7ef4-4697-ae9b-58471577cd61,1,459.4,748.6,210.4,cold,10,489.5,1907.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,35c30993-fe08-484b-be76-497660aacb98,1,531.5,756.9,193.2,cold,10,489.6,1971.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,866b6e23-58f4-4045-8708-95dff2fb0121,1,351.9,808.9,170.0,cold,10,487.2,1818.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,98c170e7-f525-4267-8668-e337185037ef,1,366.0,800.7,181.0,cold,10,364.6,1712.3,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,851dc594-e37b-4a7c-907e-3e20b132ef84,1,451.6,672.8,234.3,cold,10,437.5,1796.2,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,0401244c-07a9-4041-937c-fe284f4a8614,1,394.6,774.6,168.3,cold,10,517.1,1854.6,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,1dfee267-ee45-4f52-92ed-c43cd80efa61,1,403.2,744.4,187.5,cold,10,461.3,1796.4,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,abdd9bd9-e887-4a95-b0cb-1a79a825fea2,1,617.0,594.8,161.9,cold,10,362.3,1736.0,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,288cce2a-852d-4246-b747-afada54522ba,1,652.6,626.4,206.8,cold,10,386.9,1872.7,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:05,us,steel,79d3381a-0517-4209-a69e-237644852f91,1,660.4,739.5,156.8,cold,10,506.2,2062.9,200,https://www.google.com/,
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261113-1600-c10,2026-11-13 16:27:07,us,notte,,0,,,,cold,10,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.

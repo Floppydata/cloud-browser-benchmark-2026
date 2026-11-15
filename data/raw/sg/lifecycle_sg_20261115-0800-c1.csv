@@ -1,0 +1,301 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261115-0800-c1,2026-11-15 08:01:26,sg,browserbase,f4be061c-43f3-4a84-9daf-af3d027bd2c0,1,684.8,1240.0,680.8,cold,1,828.9,3434.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:01:30,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:01:30,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:01:31,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:01:32,sg,floppydata,f1528267-9c87-453d-b986-a8264e321b99,1,5574.0,3945.5,232.5,cold,1,1376.4,11128.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:01:43,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:01:44,sg,browserless,,1,,1559.1,521.1,cold,1,614.2,2694.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:01:46,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:01:47,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:01:49,sg,kernel,h7nxgpof4lkvhet30kgs64dn,1,874.0,1417.9,861.8,cold,1,882.8,4036.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:01:53,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:01:55,sg,floppydata,0545cdbf-d247-47a6-b63b-d9fc61b8fa51,1,7357.2,2395.2,229.0,cold,1,2086.0,12067.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:07,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:02:07,sg,browserless,,1,,1707.7,223.9,cold,1,817.1,2748.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:10,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:02:11,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:02:11,sg,browserbase,2e80523b-f238-4f34-9b54-9fb55ee838eb,1,644.0,1245.7,680.9,cold,1,810.0,3380.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:15,sg,kernel,v0dylnje2e36wkm4jjrw4lpd,1,876.2,1386.5,871.4,cold,1,842.5,3976.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:20,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:02:20,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:02:21,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:02:22,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:02:23,sg,browserbase,76a58d3b-2b99-4d91-b547-d60a990dff66,1,682.3,1234.5,693.7,cold,1,768.4,3378.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:27,sg,browserless,,1,,1625.5,312.8,cold,1,671.5,2609.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:29,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:02:30,sg,kernel,kmsw3s4qaeg4kfjb6n20d3gm,1,875.5,1496.7,846.3,cold,1,882.0,4100.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:35,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:02:36,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:02:37,sg,floppydata,5dee99f0-2a7d-4390-9b56-a19e4643ee38,1,8498.1,2293.6,217.9,cold,1,2551.2,13560.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:51,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:02:51,sg,kernel,umn1jimc4erwptixtkdo0b45,1,872.1,1396.0,864.6,cold,1,860.3,3993.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:56,sg,browserless,,1,,1741.6,247.7,cold,1,706.1,2695.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:02:58,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:03:00,sg,browserbase,01fcdac7-f4ee-415c-af03-3740e28ff113,1,674.3,1246.0,680.0,cold,1,836.0,3436.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:03:03,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:03:04,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:03:04,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:03:05,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:03:06,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:03:07,sg,floppydata,38323a17-8817-44ac-8b57-5c3226d3bcd5,1,5334.8,2629.9,231.5,cold,1,1142.5,9338.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:03:16,sg,kernel,a6mkpmipai552lyix3um973f,1,857.3,1407.5,852.8,cold,1,841.8,3959.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:03:21,sg,floppydata,9a3406ce-57bd-47e8-b924-d4ade3db73ef,1,6164.3,3500.5,401.5,cold,1,3580.3,13646.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:03:35,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:03:36,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:03:37,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:03:38,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:03:39,sg,browserbase,ddc57b35-f903-4b7f-9ee0-9340b6c55ec6,1,679.3,1240.3,683.4,cold,1,827.2,3430.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:03:42,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:03:43,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:03:43,sg,browserless,,1,,1760.5,232.8,cold,1,744.4,2737.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:03:46,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:03:46,sg,browserless,,1,,1708.5,222.9,cold,1,729.5,2660.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:03:49,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:03:50,sg,floppydata,9af9fa05-42fb-4366-889e-9f463b2270ac,1,6109.8,3059.8,272.9,cold,1,5432.7,14875.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:05,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:04:06,sg,kernel,xd8jdgrvxryxmrgz627141cx,1,887.8,1421.1,873.5,cold,1,807.5,3989.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:10,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:04:12,sg,browserbase,e61c5440-7678-4636-a1f7-59da2110ca88,1,684.8,1246.1,678.6,cold,1,801.7,3411.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:15,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:04:16,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:04:17,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:04:17,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:04:18,sg,browserless,,1,,1742.3,388.1,cold,1,682.1,2812.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:21,sg,kernel,x2v5etlznr2s2sxqlzj3fiaa,1,880.3,1395.4,867.2,cold,1,832.5,3975.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:26,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:04:27,sg,floppydata,57c8e842-882d-49a5-8922-a188191fc737,1,9246.9,2499.0,217.4,cold,1,1283.6,13246.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:40,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:04:40,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:04:41,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:04:41,sg,browserbase,9bd0844d-53ca-46ab-8e69-cb43c3c35460,1,677.5,1240.7,685.4,cold,1,781.7,3385.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:45,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:04:45,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:04:47,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:04:47,sg,floppydata,71522163-1965-4117-a37b-5c390e15f72d,1,7564.7,2089.1,210.4,cold,1,1445.7,11309.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:04:59,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:05:00,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:05:00,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:05:00,sg,browserless,,1,,1776.5,287.2,cold,1,756.8,2820.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:03,sg,kernel,elcuro7m2ionpt6udbz2tno4,1,866.5,1456.9,864.7,cold,1,936.3,4124.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:08,sg,browserbase,7fb09327-06d3-4745-9992-84fd860253ff,1,678.0,1438.0,681.4,cold,1,822.0,3619.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:12,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:05:13,sg,browserbase,4932b57c-c64c-4140-98bb-b3387f09db2e,1,677.9,1246.2,682.4,cold,1,847.3,3453.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:17,sg,browserless,,1,,1577.3,251.2,cold,1,738.9,2567.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:20,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:05:20,sg,kernel,yew485vnnzu9yrj8ylmkbzpw,1,849.1,1420.5,847.5,cold,1,916.7,4033.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:25,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:05:26,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:05:27,sg,floppydata,64691af1-770e-45c6-94a4-9d56dd564063,1,6198.7,2885.7,236.4,cold,1,1087.1,10407.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:37,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:05:37,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:05:38,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:05:38,sg,browserless,,1,,1610.7,237.2,cold,1,1015.3,2863.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:41,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:05:41,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:05:42,sg,kernel,mkz048mw97zf3839j8bufn6w,1,889.4,1402.3,860.9,cold,1,893.0,4045.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:05:47,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:05:47,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:05:48,sg,floppydata,7ddc42ce-a409-471a-9334-d6fe45db0db2,1,6640.4,2936.2,223.3,cold,1,2766.6,12566.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:01,sg,browserbase,dfc5ac1b-a59f-4ee7-b337-80783b1c079d,1,685.6,1251.2,673.8,cold,1,828.9,3439.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:05,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:06:06,sg,floppydata,78864855-eaff-456f-9883-5460c657192f,1,5497.6,2276.2,218.2,cold,1,1249.5,9241.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:15,sg,kernel,o1otxsijlayfgizooy83pvis,1,1982.7,1417.8,870.0,cold,1,919.6,5190.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:21,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:06:21,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:06:22,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:06:23,sg,browserbase,65d9adf6-f4d4-421b-bdb6-7e5f23a98e6f,1,674.6,1239.0,676.9,cold,1,830.6,3421.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:27,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:06:27,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:06:28,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:06:30,sg,browserless,,1,,1760.5,268.5,cold,1,722.8,2751.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:32,sg,kernel,i3u5kxjbu5xxtwgp7c7gwvzv,1,881.3,1448.5,847.0,cold,1,908.2,4085.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:37,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:06:38,sg,browserbase,fa0f809c-1393-4c82-9dad-df029037934c,1,675.2,1235.4,678.9,cold,1,818.6,3408.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:06:42,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:06:44,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:06:44,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:06:45,sg,floppydata,eb8fe304-4598-410d-9324-19a93f127029,1,7306.1,2070.1,210.9,cold,1,8230.5,17817.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:03,sg,browserless,,1,,1617.6,210.9,cold,1,759.6,2588.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:06,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:07:06,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:07:07,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:07:07,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:07:07,sg,browserless,,1,,1627.0,215.6,cold,1,694.5,2537.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:10,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:07:11,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:07:12,sg,floppydata,785d87f8-48cd-4986-984f-64fce2832ea6,1,5456.7,2236.3,216.7,cold,1,1409.4,9319.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:21,sg,browserbase,2f7348e6-8465-4e6e-9717-6667626df815,1,685.0,1254.0,676.0,cold,1,807.1,3422.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:25,sg,kernel,ppjzz371be28a4fdpkus9qlh,1,871.3,1410.3,864.5,cold,1,871.4,4017.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:30,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:07:31,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:07:31,sg,browserless,,1,,1552.8,535.3,cold,1,640.0,2728.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:34,sg,floppydata,a1688d03-9f12-4bee-b728-753646eed0a7,1,5957.3,2313.3,226.6,cold,1,2350.9,10848.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:45,sg,kernel,hmeuj4pg9v4ltn01uv7f8dr2,1,846.2,1407.5,871.2,cold,1,883.4,4008.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:49,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:07:51,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:07:51,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:07:51,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:07:52,sg,browserbase,f09bf27b-3387-4b57-9cd9-f7fb017f69af,1,675.2,1245.7,662.5,cold,1,812.8,3396.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:07:56,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:07:57,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:07:57,sg,floppydata,90ebfd30-66b1-4580-81f6-16472a34c9e2,1,7074.5,1683.2,218.7,cold,1,1622.3,10598.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:08,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:08:08,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:08:09,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:08:10,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:08:11,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:08:12,sg,kernel,nt81uc1d4ewkmojj6w9cjywk,1,847.6,1399.3,875.1,cold,1,834.4,3956.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:16,sg,browserbase,33f8f68e-b92b-4d6d-8b51-f8a40f51d791,1,683.5,1232.6,678.1,cold,1,775.8,3370.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:20,sg,browserless,,1,,1613.8,355.4,cold,1,643.7,2612.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:23,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:08:23,sg,browserless,,1,,1749.9,250.5,cold,1,676.2,2676.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:26,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:08:26,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:08:27,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:08:28,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:08:28,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:08:29,sg,browserbase,090f9cc3-d999-4635-9cee-8e01b427b9cf,1,678.4,1238.4,684.1,cold,1,808.9,3409.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:33,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:08:33,sg,floppydata,14a72d21-c071-498e-9c7a-b387e907c193,1,7178.8,1711.8,209.6,cold,1,2583.6,11683.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:45,sg,kernel,ob137nn903mwqj2d09bdfivo,1,866.1,1409.1,868.3,cold,1,908.9,4052.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:50,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:08:50,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:08:51,sg,kernel,l6votg8qqp4xuav2ngvd9rla,1,863.2,1362.3,864.8,cold,1,843.3,3933.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:08:56,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:08:57,sg,floppydata,53da4b0a-4243-4060-9def-36a4524d9116,1,8032.0,1570.6,202.7,cold,1,1140.7,10946.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:08,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:09:09,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:09:10,sg,browserless,,1,,2088.7,246.6,cold,1,713.2,3048.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:13,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:09:13,sg,browserbase,362c04cc-319d-454b-8df7-72481c1d2d6b,1,637.5,1238.6,682.9,cold,1,770.8,3329.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:17,sg,browserless,,1,,1691.6,247.8,cold,1,685.2,2624.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:20,sg,browserbase,5e6b612d-7360-4a2b-90ed-c63ed1d99f79,1,679.1,1237.6,679.4,cold,1,796.2,3392.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:24,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:09:25,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:09:25,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:09:25,sg,floppydata,fce4b57e-594a-4207-9b09-3daf070fd3aa,1,6495.4,1579.7,266.1,cold,1,2352.7,10693.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:36,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:09:37,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:09:38,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:09:39,sg,kernel,b2dntn0mujt2zrw99fi2uz5j,1,867.5,1441.2,873.9,cold,1,847.9,4030.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:44,sg,kernel,ia247yi9bgo49kkr48ioni8g,1,871.8,1327.9,843.6,cold,1,847.0,3890.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:09:49,sg,floppydata,92dfdf5f-2673-46d9-aefd-65402559c9b4,1,6955.5,1341.4,203.3,cold,1,2933.3,11433.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:00,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:10:00,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:10:02,sg,browserless,,1,,1491.4,222.6,cold,1,654.8,2368.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:04,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:10:04,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:10:06,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:10:06,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:10:06,sg,browserbase,bdb1da60-bb00-4bfb-90c0-b93633ac83a5,1,675.0,1437.0,681.9,cold,1,815.4,3609.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:10,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:10:11,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:10:12,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:10:12,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:10:13,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:10:14,sg,kernel,k7c231im788dacdum1jum7v1,1,847.2,1420.2,869.5,cold,1,900.2,4037.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:19,sg,browserbase,d2b57b3a-651a-4fcf-82d0-e086a4c381f8,1,681.2,1234.9,679.0,cold,1,774.3,3369.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:23,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:10:23,sg,floppydata,20135350-742f-488c-ba4e-f1634c17ab15,1,5648.5,3010.7,231.9,cold,1,1635.5,10526.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:33,sg,browserless,,1,,1446.3,232.0,cold,1,642.4,2320.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:36,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:10:37,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:10:38,sg,floppydata,b55bf28d-d394-40ac-86d7-8097a0d93af0,1,5380.2,2141.4,219.3,cold,1,1248.0,8988.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:47,sg,browserless,,1,,1579.6,365.3,cold,1,716.4,2661.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:50,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:10:51,sg,kernel,fzxxer0u1g5pxpbchd7yh5ph,1,855.0,1361.0,874.4,cold,1,872.3,3962.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:10:56,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:10:56,sg,browserbase,aa0c5431-0b0f-46b0-a748-48bc6e40ad20,1,673.8,1431.3,678.8,cold,1,781.9,3565.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:00,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:11:00,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:11:01,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:11:02,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:11:02,sg,browserbase,0a6b4a1e-b57f-4faf-a1fa-6ba4f47325f4,1,681.4,1249.6,678.6,cold,1,918.3,3527.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:06,sg,floppydata,c726bb08-abcd-4d8c-bd67-ba8f27b63947,1,7259.1,2227.6,257.5,cold,1,1815.0,11559.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:18,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:11:19,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:11:20,sg,browserless,,1,,1584.0,539.3,cold,1,645.6,2768.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:23,sg,kernel,twa94xqtj6qcx84aw61fn4u7,1,893.2,1403.0,868.0,cold,1,856.8,4021.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:28,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:11:29,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:11:29,sg,kernel,bwfcucktt1775jfbbu6q8fml,1,837.5,1523.2,873.4,cold,1,938.1,4172.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:34,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:11:35,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:11:36,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:11:36,sg,browserless,,1,,1798.3,605.5,cold,1,757.5,3161.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:40,sg,floppydata,cd814cf9-fc29-4b54-b5a0-5c3425d312fd,1,5090.7,2402.4,234.1,cold,1,3237.3,10964.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:51,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:11:52,sg,browserbase,971c12b2-8a80-44e5-9a72-4721c937c8b2,1,679.6,1244.7,682.0,cold,1,783.5,3389.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:11:55,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:11:56,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:11:56,sg,kernel,h6ynp1wbgflkjjgbgse7uytr,1,885.3,1407.6,843.3,cold,1,893.1,4029.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:01,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:12:02,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:12:03,sg,floppydata,5574e6f6-df8c-4c65-8c18-c2a6b7cb2744,1,5162.2,2262.8,252.6,cold,1,3127.1,10804.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:13,sg,browserbase,e70a1bf1-512a-4ac6-a6d6-8229f4a2a207,1,679.3,1245.2,673.8,cold,1,874.9,3473.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:17,sg,browserless,,1,,1613.0,367.1,cold,1,683.4,2663.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:20,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:12:20,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:12:21,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:12:22,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:12:23,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:12:24,sg,browserless,,1,,1672.1,227.8,cold,1,822.2,2722.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:26,sg,browserbase,cee4b3cd-acf5-4490-99f5-faa5e7ec1395,1,643.9,1238.8,676.4,cold,1,800.9,3360.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:30,sg,floppydata,27bb89a9-e51a-4a6d-b5f3-c065d5a16da4,1,5493.3,2098.7,227.7,cold,1,1472.2,9291.9,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:40,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:12:40,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:12:41,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:12:42,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:12:42,sg,kernel,mvt7uhbmu7x7608mlng26hym,1,864.5,1417.2,850.9,cold,1,880.1,4012.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:47,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:12:47,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:12:48,sg,browserbase,181b23b5-310b-4f64-88b2-e891f43cd1b1,1,678.7,1239.0,678.6,cold,1,777.5,3373.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:52,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:12:52,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:12:53,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:12:54,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:12:54,sg,kernel,jz3jkg8ce1yfqs2kjh8pa076,1,863.4,1382.2,847.4,cold,1,871.0,3964.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:12:59,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:12:59,sg,browserless,,1,,1600.8,295.9,cold,1,720.5,2617.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:13:02,sg,floppydata,5910e7f3-aeb0-492b-99f9-8df9e5f2974f,1,5197.3,2066.8,226.2,cold,1,2390.8,9881.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:13:12,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:13:12,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:13:13,sg,kernel,okmsfwol854bkiz64vmosbv5,1,845.0,1425.0,869.1,cold,1,845.0,3984.1,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:13:18,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:13:19,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:13:20,sg,floppydata,6e2b01db-35c2-4d3a-a8ee-74057237d750,1,5210.0,3118.4,232.3,cold,1,1463.8,10024.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:13:30,sg,browserless,,1,,1670.5,223.8,cold,1,747.9,2642.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:13:32,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:13:33,sg,browserbase,71ce95a8-b292-4cda-9c4c-cc8ee14217a4,1,650.2,1438.8,681.6,cold,1,788.2,3558.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:13:37,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:13:37,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:13:37,sg,browserbase,d8f9d189-27eb-47f7-a14d-aa9d365968b9,1,673.6,1237.7,657.8,cold,1,784.4,3353.5,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:13:41,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:13:42,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:13:42,sg,floppydata,f8573d29-dc9d-4221-a46b-6cbdadf3f6ad,0,5596.2,3046.7,,cold,1,,,,https://www.google.com/,"work: TimeoutError: Page.goto: Timeout 60000ms exceeded. Call log: - navigating to ""https://www.google.com/"", waiting until ""domcontentloaded"""
+20261115-0800-c1,2026-11-15 08:14:51,sg,browserless,,1,,1576.0,396.5,cold,1,671.8,2644.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:14:54,sg,kernel,x3zd4jsnq084jj8jglgzffb6,1,884.6,1398.6,848.1,cold,1,856.3,3987.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:14:58,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:14:59,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:15:00,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:15:01,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"
+20261115-0800-c1,2026-11-15 08:15:03,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:15:04,sg,kernel,k5b212v3vv6ilo048k85xo84,1,852.0,1412.6,875.7,cold,1,838.7,3979.0,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:08,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:15:09,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:15:09,sg,browserbase,8d867643-d097-4236-bad9-82fde23c33f5,1,688.0,1417.2,679.4,cold,1,805.2,3589.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:13,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:15:14,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:15:15,sg,floppydata,c6592332-5823-41ec-be89-b22536aefef7,1,6295.7,2706.9,212.7,cold,1,1430.0,10645.3,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:25,sg,browserless,,1,,1589.0,437.8,cold,1,648.0,2674.8,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:28,sg,browserbase,e3bfc318-b224-4946-995f-1b7702e8a1a9,1,692.5,1245.4,677.0,cold,1,812.5,3427.4,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:32,sg,anchor,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""error"":""Insufficient credits balance""}"
+20261115-0800-c1,2026-11-15 08:15:33,sg,floppydata,b12c4faf-31e8-4236-89d5-965a7cbadef7,1,5892.7,2470.3,269.9,cold,1,4737.3,13370.2,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:46,sg,hyperbrowser,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0800-c1,2026-11-15 08:15:47,sg,browseruse,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0800-c1,2026-11-15 08:15:48,sg,notte,,0,,,,cold,1,,,,https://www.google.com/,create: RuntimeError: http 401 Free plan limit exceeded. Please upgrade your plan to continue using Notte.
+20261115-0800-c1,2026-11-15 08:15:48,sg,browserless,,1,,1580.4,369.6,cold,1,643.7,2593.7,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:51,sg,lightpanda,,0,,,,cold,1,,,,https://www.google.com/,connect: Error: BrowserType.connect_over_cdp: WebSocket error: wss://euwest.cloud.lightpanda.io/ws 429 Too Many Requests Too Many Requests Call log: - <ws connecting> ws
+20261115-0800-c1,2026-11-15 08:15:51,sg,kernel,iasv0kxig9mg6xe9ayv8zcak,1,865.9,1440.5,845.2,cold,1,941.0,4092.6,200,https://www.google.com/,
+20261115-0800-c1,2026-11-15 08:15:56,sg,steel,,0,,,,cold,1,,,,https://www.google.com/,"create: RuntimeError: http 402 insufficient_funds / Your account is out of credits, so new sessions are refused. Add funds at https://app.steel.dev/settings/billing, th"

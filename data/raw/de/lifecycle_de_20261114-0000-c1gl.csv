@@ -1,0 +1,11 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261114-0000-c1gl,2026-11-14 00:18:42,de,gologin,id_9f484498a7682beb,1,230.7,4748.5,72.0,cold,1,559.7,5610.9,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:18:55,de,gologin,id_c34ea1831f00dbca,1,211.5,4266.4,72.2,cold,1,588.6,5138.7,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:19:09,de,gologin,id_fa9db76518bf118c,1,403.0,4265.3,72.7,cold,1,564.1,5305.1,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:19:22,de,gologin,id_02cf51de95a16f77,1,276.8,4235.6,64.4,cold,1,555.2,5132.0,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:19:35,de,gologin,id_040bab50afe4bfd5,1,489.8,4926.8,73.8,cold,1,617.5,6107.9,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:19:49,de,gologin,id_a912a3c74233f016,1,206.1,5072.1,75.5,cold,1,759.5,6113.2,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:20:04,de,gologin,id_5fd700761e0f1257,1,196.9,4301.9,62.4,cold,1,592.3,5153.5,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:20:17,de,gologin,id_41973e94730eccce,1,170.3,5303.9,39.3,cold,1,446.3,5959.8,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:20:32,de,gologin,id_2461a5c8b7ffc45b,1,206.9,4138.4,74.4,cold,1,567.8,4987.5,200,https://www.google.com/,
+20261114-0000-c1gl,2026-11-14 00:20:44,de,gologin,id_13b6554425100713,1,188.8,4330.4,71.2,cold,1,525.7,5116.1,200,https://www.google.com/,

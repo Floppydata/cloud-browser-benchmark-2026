@@ -1,0 +1,11 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261114-2000-c1gl,2026-11-14 20:22:35,sg,gologin,id_3f5f7ec8f35487b5,1,545.9,5120.9,226.4,cold,1,698.7,6591.9,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:22:50,sg,gologin,id_3d9b528648acd12d,1,730.7,5435.1,229.9,cold,1,721.4,7117.1,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:23:05,sg,gologin,id_354523fe35283bdd,1,493.9,5287.6,218.2,cold,1,674.8,6674.5,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:23:20,sg,gologin,id_4261505498c3282c,1,492.5,5561.8,225.3,cold,1,689.3,6968.9,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:23:35,sg,gologin,id_1dff1e1a387923eb,1,573.4,7631.0,224.0,cold,1,1275.7,9704.1,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:23:54,sg,gologin,id_26c5574a7eb2220f,1,529.5,5630.8,210.7,cold,1,710.3,7081.3,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:24:09,sg,gologin,id_95923bf369f4a49b,1,522.1,5468.2,211.3,cold,1,682.3,6883.9,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:24:25,sg,gologin,id_c93db9b8f48e8b68,1,501.9,5396.2,219.3,cold,1,709.1,6826.5,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:24:40,sg,gologin,id_f031c4440725a296,1,506.7,4984.8,221.9,cold,1,670.1,6383.5,200,https://www.google.com/,
+20261114-2000-c1gl,2026-11-14 20:24:54,sg,gologin,id_b0cf25e3758aa29e,1,570.3,6694.2,223.5,cold,1,772.4,8260.4,200,https://www.google.com/,

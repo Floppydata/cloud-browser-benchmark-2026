@@ -1,0 +1,121 @@
+run_id,ts_utc,server,provider,session_id,ok,create_ms,connect_ms,release_ms,start,concurrency,goto_ms,total_ms,status,url,err
+20261115-0400-warm,2026-11-15 04:14:00,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:14:00,us,kernel,hc7kun0c19x5mfmg5sig5llm,1,1706.5,98.4,48.3,warm,1,349.1,2202.3,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:02,us,gologin,id_f455ae2e03dd5bf6,1,,980.5,147.2,warm,1,429.6,1557.3,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:04,us,steel,345deda1-f460-4bdc-8fff-865d0031f0fd,1,356.6,836.7,164.8,warm,1,469.4,1827.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:06,us,browserbase,0ddbc8d4-2c8b-4b2a-aeb7-a524db1f4f0f,1,341.5,699.4,298.3,warm,1,520.2,1859.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:08,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:14:08,us,browserbase,dfe12dc7-5509-45da-9e2e-9e0e00c199bc,1,300.3,785.0,321.6,warm,1,503.9,1910.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:10,us,steel,86526fdd-8e50-4e3f-b115-f7031b080fac,1,389.4,1118.8,212.5,warm,1,481.7,2202.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:12,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:14:12,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:14:12,us,gologin,id_f455ae2e03dd5bf6,1,,987.4,148.3,warm,1,414.0,1549.7,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:14,us,kernel,gia400vmeqfxpe1skvxjmcx7,1,1562.8,130.1,42.0,warm,1,362.7,2097.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:16,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:14:16,us,kernel,q45botsej9o1c8wmvts8oo2r,1,1800.3,100.4,39.7,warm,1,324.0,2264.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:18,us,browserbase,ff98b228-e841-4521-a13d-5a1e3df212c7,1,310.4,705.2,313.5,warm,1,476.8,1805.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:20,us,gologin,id_f455ae2e03dd5bf6,1,,979.3,146.6,warm,1,418.2,1544.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:21,us,steel,5199c0ce-336d-438f-aa6a-c279936d751c,1,335.3,896.7,192.8,warm,1,482.4,1907.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:23,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:14:23,us,steel,a0ec91b9-62e4-4870-a95e-197c979fdf5b,1,340.0,960.0,173.9,warm,1,428.8,1902.7,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:25,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:14:25,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:14:25,us,gologin,id_f455ae2e03dd5bf6,1,,976.1,149.2,warm,1,437.7,1563.0,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:27,us,browserbase,e53d363b-88e8-4a69-b61d-938b424a9aea,1,321.1,727.7,317.3,warm,1,468.6,1834.7,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:29,us,kernel,v1vuq3ril5o0yqxqdd2ok5kp,1,1344.5,49.4,23.2,warm,1,288.7,1705.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:31,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:14:31,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:14:31,us,browserbase,75df0fa1-4246-4881-b1b2-1cd5fd5212d0,1,382.3,729.6,298.7,warm,1,535.9,1946.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:33,us,kernel,ow1gscc440rkzj5gp97rsqp4,1,1472.5,130.2,39.7,warm,1,414.7,2057.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:35,us,gologin,id_f455ae2e03dd5bf6,1,,963.8,148.1,warm,1,446.0,1557.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:36,us,steel,3838b0c1-32f2-4f70-bdc0-e68b046b93e7,1,495.1,827.4,187.9,warm,1,457.0,1967.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:38,us,browserbase,d6d95501-e6c6-4b49-a1e3-9b66a218bb2b,1,339.0,736.0,299.7,warm,1,499.9,1874.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:40,us,steel,b7fab80a-40f9-453d-a3fe-aaaced2a1fa3,1,376.6,850.8,174.5,warm,1,493.3,1895.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:42,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:14:42,us,gologin,id_f455ae2e03dd5bf6,1,,997.6,147.7,warm,1,439.6,1584.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:44,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:14:44,us,kernel,j2laty0jleswelvrh1hyh34a,1,1971.3,123.7,20.3,warm,1,469.0,2584.3,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:47,us,gologin,id_f455ae2e03dd5bf6,1,,985.2,146.7,warm,1,448.7,1580.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:48,us,browserbase,8f6f5b26-d25f-409f-8e78-c55a9eae82f4,1,357.8,800.0,351.2,warm,1,558.5,2067.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:14:50,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:14:50,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:14:51,us,steel,a27b2107-d141-402b-9ed6-75c34dd7c53d,0,330.0,1332.0,,warm,1,,,,https://www.google.com/,"work: TimeoutError: Page.goto: Timeout 60000ms exceeded. Call log: - navigating to ""https://www.google.com/"", waiting until ""domcontentloaded"""
+20261115-0400-warm,2026-11-15 04:15:53,us,kernel,ustu2s23b6rgq6aksoua5dgk,1,1490.6,99.6,49.8,warm,1,310.1,1950.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:15:55,us,gologin,id_f455ae2e03dd5bf6,1,,1071.2,148.4,warm,1,446.8,1666.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:15:56,us,browserbase,ba97b62f-979b-41b5-bedd-c2c81a7e80b1,1,373.2,674.4,323.2,warm,1,556.0,1926.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:15:58,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:15:58,us,steel,d79edc5f-ded5-4b16-8470-ad8678c73d19,1,349.8,848.9,163.7,warm,1,414.4,1776.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:00,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:00,us,kernel,havi6zc8cquq3xi7rnmbmzck,1,1533.5,119.2,50.2,warm,1,375.2,2078.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:02,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:16:02,us,gologin,id_f455ae2e03dd5bf6,1,,1081.4,147.2,warm,1,436.3,1664.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:04,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:04,us,browserbase,2620224f-9860-4cf0-841f-21246a386f8e,1,349.7,733.1,297.9,warm,1,538.2,1918.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:06,us,kernel,kgjjgj838i7sxzwf4er0gp0d,1,1564.6,135.7,43.4,warm,1,357.3,2101.0,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:08,us,steel,0890fe2b-6722-476a-86d0-2be9fa8523d3,1,414.2,834.7,179.6,warm,1,471.7,1900.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:10,us,kernel,aeuo9gl085whtldvv4tokfyd,1,2169.7,133.1,19.3,warm,1,326.8,2648.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:13,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:16:13,us,browserbase,a8e6d56b-752f-499f-aafe-038589c40ed8,1,336.7,785.5,321.6,warm,1,534.9,1978.7,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:15,us,steel,4ef5b283-77a3-441c-a733-e84ca861d14d,1,438.5,961.5,167.8,warm,1,429.3,1997.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:17,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:17,us,gologin,id_f455ae2e03dd5bf6,1,,978.8,146.6,warm,1,433.1,1558.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:19,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:16:19,us,browserbase,b33697ec-a196-4f56-a8a6-bcc59a6bab1d,1,326.3,782.0,321.5,warm,1,592.1,2021.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:21,us,kernel,lf7onhwy8hhg34j1g0diz75v,1,2161.6,137.9,34.4,warm,1,371.2,2705.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:23,us,gologin,id_f455ae2e03dd5bf6,1,,1068.9,146.4,warm,1,455.9,1671.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:25,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:25,us,steel,1936cb42-185e-4228-aea5-9fd25b3f988e,1,366.9,830.0,176.4,warm,1,427.8,1801.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:27,us,kernel,oatd1614c7on1fgkc9tgn0db,1,1410.0,96.6,43.7,warm,1,407.5,1957.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:29,us,steel,bfe10ad7-43e6-4f31-aa3e-b1f54567970c,1,361.9,790.2,181.6,warm,1,429.9,1763.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:31,us,browserbase,c6a3dd10-fb94-485a-83c2-c7262fd662bc,1,341.3,718.4,315.7,warm,1,555.4,1930.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:33,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:16:33,us,gologin,id_f455ae2e03dd5bf6,1,,974.3,147.4,warm,1,527.9,1649.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:34,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:35,us,kernel,fysb4vj4s356q9zygm4n0x23,1,1231.3,83.3,46.8,warm,1,209.1,1570.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:36,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:36,us,steel,4398fb38-1a17-4788-9090-b57093a3054b,1,351.4,886.0,193.4,warm,1,406.4,1837.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:38,us,gologin,id_f455ae2e03dd5bf6,1,,967.1,145.7,warm,1,428.7,1541.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:40,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:16:40,us,browserbase,7434a440-d5bf-4351-bfc6-9df14a481b6a,1,298.4,682.1,318.2,warm,1,482.3,1781.0,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:42,us,steel,31e7b71b-251e-44e1-bd38-f40ef7734145,1,350.2,914.4,171.3,warm,1,477.4,1913.3,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:43,us,kernel,evl12hpev4f6apz9ulrcks4v,1,1142.5,83.0,39.6,warm,1,203.8,1468.9,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:45,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:16:45,us,browserbase,144e770f-d6ff-49fc-bda4-ac839c4ba65c,1,301.1,762.7,318.2,warm,1,524.1,1906.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:47,us,gologin,id_f455ae2e03dd5bf6,1,,974.4,147.7,warm,1,437.5,1559.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:49,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:49,us,browserbase,c2a95157-7ec2-4c0d-ab77-e96f7f855ea9,1,341.0,772.6,319.3,warm,1,554.7,1987.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:51,us,steel,b676e1a7-368e-4601-8ee8-98643d55d9c0,1,605.4,821.8,284.3,warm,1,486.7,2198.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:53,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:16:53,us,gologin,id_f455ae2e03dd5bf6,1,,1074.8,145.7,warm,1,624.7,1845.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:55,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:16:55,us,kernel,u3shrukabf9gx7guehmg83t8,1,1774.9,67.2,36.5,warm,1,331.8,2210.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:57,us,gologin,id_f455ae2e03dd5bf6,1,,969.7,146.5,warm,1,738.6,1854.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:16:59,us,browserbase,19cbb6a8-5b21-427a-9f54-b11081f333cf,1,361.1,844.3,317.0,warm,1,490.3,2012.7,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:01,us,kernel,rkkcyzrl95mkysv12lqd3sz1,1,1913.1,28.2,61.6,warm,1,361.1,2364.0,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:03,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:17:04,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:17:04,us,steel,02b82184-3308-45e5-b853-d82e6cc52acb,1,419.2,1047.7,170.1,warm,1,495.3,2132.3,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:06,us,gologin,id_f455ae2e03dd5bf6,1,,974.7,146.5,warm,1,459.4,1580.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:07,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:17:07,us,steel,be631b12-6072-4af4-ae38-ab21383337c5,1,344.3,804.2,165.1,warm,1,400.8,1714.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:09,us,kernel,egas6qyqi5viglq0b763gx33,1,2292.4,97.5,48.8,warm,1,380.3,2819.0,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:12,us,browserbase,c03ab8d9-b8f2-4517-91ee-0636e8bcf940,1,322.4,731.3,313.7,warm,1,564.4,1931.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:14,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:17:14,us,steel,88adf0a0-fe66-490e-a901-e146b325cd1f,1,341.2,944.5,185.5,warm,1,414.1,1885.3,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:16,us,gologin,id_f455ae2e03dd5bf6,1,,980.9,154.1,warm,1,509.0,1644.0,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:18,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:17:18,us,browserbase,3f32035c-35e6-4e9d-a662-1f6a1856602b,1,343.6,708.3,315.2,warm,1,510.4,1877.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:20,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:17:20,us,kernel,is61ixldnryj2wu2hsk4j7we,1,1994.6,65.8,23.0,warm,1,344.4,2427.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:22,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:17:22,us,gologin,id_f455ae2e03dd5bf6,1,,1061.0,146.9,warm,1,464.9,1672.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:24,us,browserbase,d22b7fc5-ebb7-4d78-a71c-f6bbe103d9c5,1,347.8,756.5,293.5,warm,1,522.4,1920.2,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:26,us,kernel,fdoin3lfdhh0zw84bfw9k2dx,1,1284.1,56.0,21.3,warm,1,307.4,1668.8,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:28,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:17:28,us,steel,77a1e7cc-4ac7-4f32-ba52-da14e411985f,1,458.9,851.5,167.4,warm,1,452.6,1930.4,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:30,us,gologin,id_f455ae2e03dd5bf6,1,,1179.3,163.4,warm,1,477.9,1820.6,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:31,us,steel,0d35a093-814f-44fd-8594-5a7355fe1e8a,1,395.0,1225.5,172.7,warm,1,499.9,2293.1,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:34,us,hyperbrowser,,0,,,,warm,1,,,,https://www.google.com/,create: RuntimeError: http 402 You have reached your credit limit. Please upgrade your plan or purchase more credits.
+20261115-0400-warm,2026-11-15 04:17:34,us,browseruse,,0,,,,warm,1,,,,https://www.google.com/,"create: RuntimeError: http 402 {""detail"":""You need at least $0.01 in credits to start a browser session. Please add credits to your account or create an API key from a "
+20261115-0400-warm,2026-11-15 04:17:34,us,browserbase,47da784b-7c1a-4995-934a-3a23a2eb215b,1,338.9,748.6,322.9,warm,1,534.1,1944.5,200,https://www.google.com/,
+20261115-0400-warm,2026-11-15 04:17:36,us,kernel,k0kbw0vip2qyp4toiok8batk,1,1518.3,64.9,40.6,warm,1,343.6,1967.4,200,https://www.google.com/,
